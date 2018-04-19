@@ -1,0 +1,591 @@
+﻿	query	data	usuario	conteudo	retweets	favoritos	local	seguidores	amigos
+986727707303178240	banco do brasil	2018-04-18 22:06:32	B2 Trading Club	Banco do Brics e BNDES fazem 1º desembolso conjunto para projetos no Brasil https://t.co/raFAPtqO6m https://t.co/sP3oaLKKGt	0	0		27	74
+986726653886980097	banco do brasil	2018-04-18 22:02:21	moniq	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		3925	59
+986726136389521409	banco do brasil	2018-04-18 22:00:18	Connekt	"O maior banco privado do Brasil abriu 3 novas vagas para Gerente de Relacionamento PF em Porto Alegre/RS. Venha trabalhar no Itaú Unibanco!
+
+Acesse: https://t.co/WEkd7qj2mt https://t.co/vRHUFrZp5A"	0	0		3	31
+986726074108166144	banco do brasil	2018-04-18 22:00:03	CSJT	? Aprovados em concurso do Banco do Brasil têm pedido negado para serem convocados ? https://t.co/phDuYlh63w https://t.co/Cnult9Mi5m	0	0		12552	124
+986726010870738944	banco do brasil	2018-04-18 21:59:48	Manuelacet	Alguém sabe como conseguir ver a fatura do Banco do Brasil pelo site? Pq aquela merda e bosta é a mesma coisa	0	2	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='f207b85be9f1513e', url='https://api.twitter.com/1.1/geo/id/f207b85be9f1513e.json', place_type='city', name='Recife', full_name='Recife, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-35.019805, -8.157554], [-34.858893, -8.157554], [-34.858893, -7.929652], [-35.019805, -7.929652]]]), attributes={})	621	475
+986725999013515264	banco do brasil	2018-04-18 21:59:45	yax	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		717	525
+986725839193739264	banco do brasil	2018-04-18 21:59:07	Izzie	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		143	445
+986725789533114368	banco do brasil	2018-04-18 21:58:55	Uchiha Pedro	Gostei de um vídeo @YouTube https://t.co/Qa2fj7Ef4K MAIOR ASSALTO A BANCO DO BRASIL !!	0	0		41	201
+986725547307827201	banco do brasil	2018-04-18 21:57:57	Guria Colorada ??	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		485	256
+986725434946736128	banco do brasil	2018-04-18 21:57:30	Erick Barbosa	I'm at Banco do Brasil BR in Macapá, AP https://t.co/DaZPPG9ZiO	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='e9ea1f1600a66684', url='https://api.twitter.com/1.1/geo/id/e9ea1f1600a66684.json', place_type='city', name='Macapá', full_name='Macapá, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-51.492501, -0.088875], [-49.894431, -0.088875], [-49.894431, 1.262232], [-51.492501, 1.262232]]]), attributes={})	221	322
+986725370459238401	banco do brasil	2018-04-18 21:57:15	Marcus Vinicius Dias	Um dos motivos que vc não consegue pegar um dinheiro emprestado no banco para ampliar seu botequim, reformar sua casa, pagar uma faculdade ou simplesmente passear com sua família é porque o governo pega tudo, e não te sobra nada... https://t.co/FtIGOUqj2L	0	0		193	626
+986725245137641472	banco do brasil	2018-04-18 21:56:45	josias alves	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		990	949
+986724212713906176	banco do brasil	2018-04-18 21:52:39	Xande	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1395	378
+986724207865352198	banco do brasil	2018-04-18 21:52:38	Marcus Rocha	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		208	278
+986724079498612736	banco do brasil	2018-04-18 21:52:07	Tiago Botini … … … … … … … … … … … … … … …	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		7215	5238
+986723481898364928	banco do brasil	2018-04-18 21:49:45	Cah, the hedgehog ??	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		100	516
+986723327422148610	banco do brasil	2018-04-18 21:49:08	Silmara	Hoje eu perdi 2 horas pra nada naquela merda do Banco do Brasil	0	0		631	341
+986723211319660546	banco do brasil	2018-04-18 21:48:40	magavilhosa	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		456	532
+986723003257049088	banco do brasil	2018-04-18 21:47:51	lay ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		12334	11228
+986722854359191552	banco do brasil	2018-04-18 21:47:15	dayane	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		2563	556
+986722325650341888	banco do brasil	2018-04-18 21:45:09	Connekt	"Trabalhe no maior banco privado do Brasil: estão abertas 3 novas vagas para Gerente de Relacionamento Empresas no Itaú Unibanco, em Porto Alegre/RS!
+
+Acesse: https://t.co/2LZatMPnFo https://t.co/7KqUuILzhD"	0	0		3	31
+986722154464120834	banco do brasil	2018-04-18 21:44:28	Carlos W S Souza	"Olha a inflação de 1.75 do governo .
+
+Fonte: Banco Mundial
+
+""O Brasil tem a maior carga tributária do mundo, para pagar a
+MAIOR CORRUPÇÃO DO MUNDO""
+
+Tributos no Brasil -  uma vergonha!!!... https://t.co/4J9l3tPBYR"	0	0		257	471
+986722137829445642	banco do brasil	2018-04-18 21:44:24	William Bassani ??	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		1718	509
+986721564879196160	banco do brasil	2018-04-18 21:42:08	Marcelo Queiroz	I'm at Banco do Brasil (Ag 3253-0) in Fortaleza, Ceará https://t.co/yPz7btue1w	0	0		54	215
+986721264663326720	banco do brasil	2018-04-18 21:40:56	Felipe Gaiga	#agronomiaUNIFEOB — participando de Pré-Agrishow - Unifeob E Banco do Brasil	0	0		139	269
+986721121172156423	banco do brasil	2018-04-18 21:40:22	VG $2	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		665	50
+986720606719758336	banco do brasil	2018-04-18 21:38:19	Lavinias	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		125	419
+986720271326466054	banco do brasil	2018-04-18 21:36:59	Paulinho	@Rodolf0liveira @nubank Passei 8 meses usando um Visa do Banco do Brasil e um American Express, até que me aceitaram e cancelei os dois kkkk, tem que ter paciência velho.	0	1		106	403
+986719880018911233	banco do brasil	2018-04-18 21:35:26	Gusmao Al F	EX Presidente do Banco Central confirma que Dilma levou o Brasil a pior recessão da história - Jornal do Pais https://t.co/5Dxbk4WBK4	0	0		35	25
+986718527288692739	banco do brasil	2018-04-18 21:30:03	TV PUC-Rio	O diretor do Banco Central do Brasil conta como notícias falsas abalam o mercado financeiro.  https://t.co/zCiYfeqpAC	0	0		1153	611
+986718098077224960	banco do brasil	2018-04-18 21:28:21	Konata	amanhã vou no banco do brasil entregar meu formulário de portabilidade de salário, cansei de ser trouxa	0	0		136	193
+986717910587539456	banco do brasil	2018-04-18 21:27:36	Mah	mano banco do brasil é um lixo meu deus	0	0		363	250
+986717885253980160	banco do brasil	2018-04-18 21:27:30	João Augusto	"""Confirmada a terceira temporada de Lá Casa de Papel"". 
+Boatos indicam que vão assaltar o Banco do Brasil.."	0	0		73	62
+986717786343919616	banco do brasil	2018-04-18 21:27:07	a+querida?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		393	239
+986717042299547649	banco do brasil	2018-04-18 21:24:09	ruby	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		63	73
+986716964046467072	banco do brasil	2018-04-18 21:23:51	Karina	Me sinto andando no campo minado essas horas perto do banco do Brasil, tu consegue ouvir os cocos dos pássaros caindo no chão	0	0		296	262
+986716573816762371	banco do brasil	2018-04-18 21:22:18	ß?anqu?nha	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		44	178
+986715936999792641	banco do brasil	2018-04-18 21:19:46	paola	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		672	154
+986715735471853569	banco do brasil	2018-04-18 21:18:58	edijane raimundo	Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/DvWaHDpvJz	0	0		658	836
+986714665001607170	banco do brasil	2018-04-18 21:14:43	The Runyt Movies	Concurso Banco do Brasil | Conhecimentos Bancários | Mercado de Câmbio | prof. Cid Roberto https://t.co/dyu0OO1phu https://t.co/Y0z091rnbQ	0	0		1231	5
+986713341417742338	banco do brasil	2018-04-18 21:09:27	Vinícius César	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		117	284
+986712596924502016	banco do brasil	2018-04-18 21:06:29	Marko Ourisso	Notícia importante: o Banco do Brasil, Bradesco, Itaú e Santander - bancos rivais da Caixa - reduziram suas taxas de juros para CRÉDITO IMOBILIÁRIO, facilitando o financiamento de imóveis. Fique atento corretor, pois o... https://t.co/OORSbTaAhj	0	0		115	1126
+986711883536388097	banco do brasil	2018-04-18 21:03:39	Damásio Porto Alegre	"Você viu? O edital para Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas bônus.
+Comece já seus estudos e esteja mais próximo de conquistar a aprovação.
+A prova será realizada dia 13 MAIO. ? https://t.co/SiTYjFec8n https://t.co/ha9rXVHbxu"	0	0		1805	620
+986711880390586369	banco do brasil	2018-04-18 21:03:39	damasioriogrande	"Você viu? O edital para Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas bônus.
+Comece já seus estudos e esteja mais próximo de conquistar a aprovação.
+A prova será realizada dia 13 MAIO. ? https://t.co/4QDmJgqu8T https://t.co/mXmyFiFKTi"	0	0		575	32
+986711798593224704	banco do brasil	2018-04-18 21:03:19	ilovebruxarias (+18)	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		194	352
+986711085502943232	banco do brasil	2018-04-18 21:00:29	Jonas Oliveira	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		99	1294
+986710150072414208	banco do brasil	2018-04-18 20:56:46	Projeto de Investidor	Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/qmEEdVY3CI	0	0		28	171
+986709894677090306	banco do brasil	2018-04-18 20:55:45	INSEA	"OBSERVATÓRIO DA RECICLAGEM QUE AMPLIAR DIÁLOGO COM A CIDADE
+
+Na tarde de hoje (18), integrantes do Observatório da Reciclagem Inclusiva (ORIS) estiveram reunidos com a direção do Centro Cultural Banco do Brasil (CCBB) -... https://t.co/C8kZAvuiXN"	0	0		28	21
+986709892848345088	banco do brasil	2018-04-18 20:55:45	Jéssica	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		892	346
+986709554711982080	banco do brasil	2018-04-18 20:54:24	Biazinha	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		694	433
+986709235529670656	banco do brasil	2018-04-18 20:53:08	Axcel Bruzello	"Sou muito juvena powwww! 
+Tinha esquecido que o Banco do Brasil fica aberto só até às 16h, fui todo sereninho achando que era igual lotérica, fui de bote legal ?? bizonho"	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='6403b7e96cc202f9', url='https://api.twitter.com/1.1/geo/id/6403b7e96cc202f9.json', place_type='city', name='São José', full_name='São José, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-48.7459849, -27.6418308], [-48.5994473, -27.6418308], [-48.5994473, -27.5232634], [-48.7459849, -27.5232634]]]), attributes={})	82	76
+986708971112271872	banco do brasil	2018-04-18 20:52:05	Gabriel Olinda	@ACMilan_Brasil Gattuso tem que botar Suso,Bonaventura(apesar do golaço) no banco. Eles dois em campo é um festival de cruzamentos inútil e jogadas manjadas.	0	1		98	219
+986708104279724034	banco do brasil	2018-04-18 20:48:38	C.	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		439	299
+986707797051166724	banco do brasil	2018-04-18 20:47:25	?	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		90	455
+986707004763750400	banco do brasil	2018-04-18 20:44:16	Ótica Occhio Bello	"ÓTICA OCCHIO BELLO a primeira Ótica do BURITIS.
+?????
+Venha conhecer nossos modelos. 
+Av. Professor Mário Werneck 1776 (Em frente ao Banco do Brasil). Tel: 3377-1870"	0	0		104	3
+986706830347956227	banco do brasil	2018-04-18 20:43:35	milena	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		475	225
+986706457390444544	banco do brasil	2018-04-18 20:42:06	EuclidesFla ???	RT @jovemcientista: No último ano, o Ceará foi o estado que mais inscreveu projetos no #PJC! E o Colégio Militar do Ceará também foi venced…	2	0		39730	4675
+986706199889498113	banco do brasil	2018-04-18 20:41:04	AC Milan Brasil	47' Walter Mazzarri expulso do banco do Torino.	0	11		17360	557
+986706180578906114	banco do brasil	2018-04-18 20:41:00	Marcella de Miranda	RT @jovemcientista: No último ano, o Ceará foi o estado que mais inscreveu projetos no #PJC! E o Colégio Militar do Ceará também foi venced…	2	0		8991	1233
+986705889074778112	banco do brasil	2018-04-18 20:39:50	Acreana	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		501	452
+986705643477364737	banco do brasil	2018-04-18 20:38:52	João Guimarães	Gostei de um vídeo @YouTube https://t.co/u1IGfvzzHD MAIOR ASSALTO A BANCO DO BRASIL !!	0	0		18	146
+986704296346570753	banco do brasil	2018-04-18 20:33:30	Miller	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		268	348
+986703650058797058	banco do brasil	2018-04-18 20:30:56	Zeca na direita ?	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		541	634
+986703480021749761	banco do brasil	2018-04-18 20:30:16	me aperta que sai bosta	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		188	244
+986701518614261767	banco do brasil	2018-04-18 20:22:28	Jaime Bastos	RT @PMorenoB: EX Presidente do Banco Central confirma que Dilma levou o Brasil a pior recessão da história https://t.co/Go336nxH8A via @Jor…	7	0		96	384
+986701424414416896	banco do brasil	2018-04-18 20:22:06	lari	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1419	969
+986700865108107267	banco do brasil	2018-04-18 20:19:52	miss... vanjie	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		257	178
+986700800339726336	banco do brasil	2018-04-18 20:19:37	ana clara	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		46	193
+986700012955537410	banco do brasil	2018-04-18 20:16:29	Angela Rosane	RT @g1economia: Banco do Brics e BNDES fazem 1º desembolso conjunto para projetos no Brasil https://t.co/J059BeLivZ	1	0		104	530
+986699729961660418	banco do brasil	2018-04-18 20:15:22	PrêmioJovemCientista	"No último ano, o Ceará foi o estado que mais inscreveu projetos no #PJC! E o Colégio Militar do Ceará também foi vencedor na categoria Mérito Institucional em 2015! 
+?O 29º PJC é do CNPq, em parceria com a Fundação Roberto Marinho, Fundação Grupo Boticário e Banco do Brasil https://t.co/p8UZh9JXwl"	2	4		16438	405
+986699383847706624	banco do brasil	2018-04-18 20:13:59	izzie ta infinitaaaaaaa	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1257	3473
+986699156378054656	banco do brasil	2018-04-18 20:13:05	maria	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		999	818
+986699133540012032	banco do brasil	2018-04-18 20:13:00	Mauro Cezar	Tem gol de quem veio do banco, @RomeluLukaku9: @afcbournemouth 0-2 @ManUtd. Ao vivo na ESPN Brasil, comigo e @_paulo_andrade_ #premierleaguesonaespn	0	26		747275	2248
+986698926693679105	banco do brasil	2018-04-18 20:12:10	Rodolfo Menezes	@umadands Chego no Banco do Brasil às 9h50 ? pego café fresquinho e vou embora logo	0	0		65	49
+986698380100456448	banco do brasil	2018-04-18 20:10:00	JRgamer?	Gostei de um vídeo @YouTube https://t.co/wSDcCDmYcN MAIOR ASSALTO A BANCO DO BRASIL !!	0	0		620	2708
+986698327302565889	banco do brasil	2018-04-18 20:09:47	Emily Moura	RT @IQ360brasil: Apple Pay finalmente desembarcou no Brasil! Se você tem um iPhone e um cartão de crédito do banco Itaú Unibanco já pode te…	2	0		9	91
+986698308293885953	banco do brasil	2018-04-18 20:09:43	Tribuna do Sertão	Tribuna do Sertão - BNDES e 'banco dos BRICS' fazem 1º desembolso no Brasil para parques eólicos https://t.co/VvI3jkK70s	0	0		733	314
+986698297787277320	banco do brasil	2018-04-18 20:09:40	Tribuna do Agreste	Tribuna do Sertão - BNDES e 'banco dos BRICS' fazem 1º desembolso no Brasil para parques eólicos https://t.co/h8vvgmpVTX	0	0		1422	1577
+986697858417033216	banco do brasil	2018-04-18 20:07:56	Tribuna do Sertão	Tribuna do Sertão - BNDES e 'banco dos BRICS' fazem 1º desembolso no Brasil https://t.co/oQGhqUwypr	0	0		733	314
+986697847100846082	banco do brasil	2018-04-18 20:07:53	Tribuna do Agreste	Tribuna do Sertão - BNDES e 'banco dos BRICS' fazem 1º desembolso no Brasil https://t.co/If2bHyvFzx	0	0		1422	1577
+986697523090862080	banco do brasil	2018-04-18 20:06:36	Gio?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		605	155
+986697444451848195	banco do brasil	2018-04-18 20:06:17	yoyozilda	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		272	343
+986697023289221120	banco do brasil	2018-04-18 20:04:36	a tal da bugarin ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		376	371
+986696724696662017	banco do brasil	2018-04-18 20:03:25	Letícia	Saco o banco do Brasil me incomodando	0	0		1042	594
+986696141931556864	banco do brasil	2018-04-18 20:01:06	Beatriz	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		294	220
+986694703813922817	banco do brasil	2018-04-18 19:55:23	fagui	@GalaMexicano se tivesse uma conta no banco do brasil seria mais facil. mas tá na mão.	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='894146230dd1d42d', url='https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json', place_type='city', name='Porto Alegre', full_name='Porto Alegre, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-51.3061478, -30.2688069], [-51.012471, -30.2688069], [-51.012471, -29.9308654], [-51.3061478, -29.9308654]]]), attributes={})	1303	224
+986694190192087040	banco do brasil	2018-04-18 19:53:21	carmem_piani	RT @PMorenoB: EX Presidente do Banco Central confirma que Dilma levou o Brasil a pior recessão da história https://t.co/Go336nxH8A via @Jor…	7	0		318	238
+986694054292414466	banco do brasil	2018-04-18 19:52:49	altino  correia	"Estudante universitário morto a facadas nos Estados Unidos ! Leia no Diário de Pernambuco:
+Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil. https://t.co/xo8srLPC1h via @DiarioPE"	0	0		1097	242
+986693558618001408	banco do brasil	2018-04-18 19:50:50	Carlossss	"RT @ApaquePE: É tempo de solidariedade. Vamos ajudar nossos irmãos de Bodocó, que sofreu com as fortes chuvas. 
+
+Doações para os desabrigad…"	12	0		392	452
+986693325599145986	banco do brasil	2018-04-18 19:49:55	Rebeca Maxsuana	Nos meus sonhos eróticos os funcionários do banco do Brasil pegam fogo juntos com o banco	0	0		49	36
+986692839433232384	banco do brasil	2018-04-18 19:47:59	giovanna freitas	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		528	262
+986692592518795266	banco do brasil	2018-04-18 19:47:00	Icaro Gadelha	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		287	757
+986692492006494211	banco do brasil	2018-04-18 19:46:36	Laiza Castro	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1494	1263
+986692483626258434	banco do brasil	2018-04-18 19:46:34	Nephilim? ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		15561	14085
+986692339413463040	banco do brasil	2018-04-18 19:46:00	maah	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1838	1405
+986691728009768961	banco do brasil	2018-04-18 19:43:34	pam perdida em cachos	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		4710	3877
+986691390653583362	banco do brasil	2018-04-18 19:42:14	G1 - Economia	Banco do Brics e BNDES fazem 1º desembolso conjunto para projetos no Brasil https://t.co/J059BeLivZ	1	1		181771	1
+986691385444241409	banco do brasil	2018-04-18 19:42:12	strip-tease emocional	dinheiro; conta corrente:775334  banco do brasil ag:8463 https://t.co/PnaOKPLgfZ	0	4		179	463
+986691336156958720	banco do brasil	2018-04-18 19:42:01	wgate arouca	Banco do Brics e BNDES fazem 1º desembolso conjunto para projetos no Brasil https://t.co/0qkeOP5TTe	0	0		4	0
+986691023995854849	banco do brasil	2018-04-18 19:40:46	liamar ?	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		38	258
+986690655606001664	banco do brasil	2018-04-18 19:39:18	Gustavo Bittencourt	@Bancointer boa tarde. Não estou conseguindo pagar os boletos do Banco Inter no Banco do Brasil para depositar na minha conta. Vocês tem alguma ideia do que pode ser? https://t.co/yD38Veaj8v	0	0		35	284
+986690305247383552	banco do brasil	2018-04-18 19:37:55	gabbie; vem JB6	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		192	700
+986687375454687232	banco do brasil	2018-04-18 19:26:16	IVANI B HOFLING	RT @BHOFLING: Dilma Rousseff continua solta https://t.co/saeUFcm8ki Aécio vai virar reu, mas a PGR livrou o Operador de Dida Bendine do Ban…	1	0		375	54
+986687328201723905	banco do brasil	2018-04-18 19:26:05	LV?	to no banco do brasil, vou perder o jogo do real madrid	0	0		1931	988
+986687190402064385	banco do brasil	2018-04-18 19:25:32	Apostilas Opção	"?? “CONCURSO BANCO DO BRASIL” de @apostilasopcao
+
+https://t.co/9q2IihlcIX"	0	0		1672	443
+986686585646256129	banco do brasil	2018-04-18 19:23:08	Rose	Xauuu (@ Banco do Brasil in Boa Vista, RR) https://t.co/58sHbYczgZ	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='ef4296e721b70dfe', url='https://api.twitter.com/1.1/geo/id/ef4296e721b70dfe.json', place_type='city', name='Boa Vista', full_name='Boa Vista, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-61.000632, 2.427858], [-60.2877575, 2.427858], [-60.2877575, 3.606091], [-61.000632, 3.606091]]]), attributes={})	236	373
+986686503379259392	banco do brasil	2018-04-18 19:22:48	Fabio Zamorim	RT @AdvocaciaGeral: A AGU, o Banco Central do Brasil, a Federação Brasileira de Bancos, a Frente Brasileira pelos Poupadores e o Instituto…	1	0		215	1882
+986686128399896576	banco do brasil	2018-04-18 19:21:19	Contenção de Danos	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		462	339
+986686075513995264	banco do brasil	2018-04-18 19:21:06	AGU	A AGU, o Banco Central do Brasil, a Federação Brasileira de Bancos, a Frente Brasileira pelos Poupadores e o Instituto Brasileiro de Defesa do Consumidor informam que a plataforma digital para adesão ao acordo dos Planos Econômicos será lançada na segunda quinzena de maio.	1	2		163192	148
+986685664430362624	banco do brasil	2018-04-18 19:19:28	Fernanda Reali	Luz filtrada pelo #teto de vidro no Centro Cultural Banco do Brasil no #riodejaneiro #rotunda do… https://t.co/aaZaLohlXj	0	0		2643	1020
+986685026304708608	banco do brasil	2018-04-18 19:16:56	paula	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		732	498
+986684924647354368	banco do brasil	2018-04-18 19:16:32	Bruno.Unter	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1635	2088
+986684896654561280	banco do brasil	2018-04-18 19:16:25	Chico de Faria	"RT @Unifeob: Participe do Pré Agrishow! Uma parceria entre a UNIFEOB e o BANCO DO BRASIL.
+O evento será hoje na Fazenda-Escola e começa às…"	1	0		45	313
+986684544739872773	banco do brasil	2018-04-18 19:15:01	Calais	Fui no banco do Brasil e o gerente veio me perguntar se eu era nordestina por causa da minha voz fanha	0	0		139	190
+986684140094451712	banco do brasil	2018-04-18 19:13:25	Portilla Sisters	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		228	136
+986683835084656643	banco do brasil	2018-04-18 19:12:12	tiger	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		326	1249
+986683371869949953	banco do brasil	2018-04-18 19:10:22	Carolene	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		455	125
+986682923775676416	banco do brasil	2018-04-18 19:08:35	PontoInterFC™	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		6747	5791
+986681632022253568	banco do brasil	2018-04-18 19:03:27	Vick	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		685	2737
+986680825151442944	banco do brasil	2018-04-18 19:00:15	UNIFEOB	"Participe do Pré Agrishow! Uma parceria entre a UNIFEOB e o BANCO DO BRASIL.
+O evento será hoje na Fazenda-Escola e começa às 13 horas até às 22 horas.
+Entrada franca!
+A feira trará palestras técnicas, stands de empresas do agronegócio, produtores rurais, professores, estudantes https://t.co/IlTK5OaABv"	1	1		529	632
+986680650722955264	banco do brasil	2018-04-18 18:59:33	Otávio Veloso	Deputado Wilson Brandão solicita reabertura do Banco do Brasil de Jaicós - Noticiei https://t.co/kunYH9Pt9H	0	0		589	571
+986680551011692546	banco do brasil	2018-04-18 18:59:09	pau lo	"eu quero matar quem fez o edital para o concurso do Banco do Brasil
+MATAR"	0	1		96	203
+986680411333054465	banco do brasil	2018-04-18 18:58:36	Rob	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		422	500
+986680372170772480	banco do brasil	2018-04-18 18:58:27	Henrique	"@caju_sz Que direito à prática? tem que votar contra mesmo, o e-sport ta indo mt bem sem parasita botar a mão, por que mudar isso?
+
+Quer ter alvará de gamer?
+
+Quer comprar skin no lol no caixa do Banco do Brasil?
+
+ganha o que com essa merda?"	0	0		4	39
+986677722373152768	banco do brasil	2018-04-18 18:47:55	C A R O L I N A ?	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		479	528
+986677489324797952	banco do brasil	2018-04-18 18:46:59	Filmerama Produções	Inscrições abertas para o edital de Seleção de Projetos Audiovisuais do Banco do Brasil https://t.co/vp4bvq2wiv https://t.co/EBp6w8sAQO	0	0		42	13
+986677234361565186	banco do brasil	2018-04-18 18:45:58	Isaias Almeida	@BancodoBrasil Obrigado Banco do Brasil. O Atendimento de vocês é nota ZERO. Tentando mudar o valor da cobrança do pacote de serviços bancários e olha a resposta do site/autoatendimento/app. Pior é que na agência também não conseguem resolver. #vergonha #bancodobrasil #pessimo https://t.co/AqKmLUhJst	0	0		285	784
+986677107865645057	banco do brasil	2018-04-18 18:45:28	sadpoi	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		89	215
+986675581411610625	banco do brasil	2018-04-18 18:39:24	?ortal Rolândia	BANCO DO BRASIL ISENTA SECRETARIA DE EDUCAÇÃO DO PAGAMENTO DE ALUGUEL https://t.co/0fwXJCtXMv	0	0		1086	475
+986675223448694788	banco do brasil	2018-04-18 18:37:59	RD5	Concurso Banco do Brasil 2018 poderá abrir nova seleção no este ano! https://t.co/Vum7alI1E4 #concursos	0	0		101	6
+986674560908046347	banco do brasil	2018-04-18 18:35:21	Damásio S.A. Platina	"O edital para Escriturário do Banco do Brasil foi publicado! ?
+
+Elaboramos um curso online específico com aulas bônus.
+Comece já seus estudos e fique bem próximo de conquistar sua aprovação.
+
+? Quando? 13 de Maio. 
+
+? Como me inscrevo? https://t.co/rcPhaHEalW https://t.co/y0zMbXglvR"	0	0		15	38
+986674513583714308	banco do brasil	2018-04-18 18:35:10	Damásio Maringá	"O edital para Escriturário do Banco do Brasil foi publicado! ?
+
+Elaboramos um curso online específico com aulas bônus.
+Comece já seus estudos e fique bem próximo de conquistar sua aprovação.
+
+? Quando? 13 de Maio. 
+
+? Como me inscrevo? https://t.co/KeVk7wfdR8 https://t.co/EwiizCPW3L"	0	0		353	89
+986673901056004096	banco do brasil	2018-04-18 18:32:44	JANE WONDER  ???	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		921	729
+986673348573835272	banco do brasil	2018-04-18 18:30:32	NãoQueEuPrecise	Tomei um chá de cadeira no Banco do Brasil que só vou no banco agora se tiver dinheiro pra mim	0	1		131	203
+986672130803847169	banco do brasil	2018-04-18 18:25:42	Emaaa	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		333	443
+986671643509567495	banco do brasil	2018-04-18 18:23:45	mari	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		212	253
+986671264428371972	banco do brasil	2018-04-18 18:22:15	pantANÊira ?	"@kadu_nogueira pois é, cartão de crédito infelizmente não consegui me desfazer pois em viagem ainda é bem útil
+conta em banco, atualmente estou em processo de sair do banco do brasil e ficar só no inter
+
+quanto menos banco, melhor, quanto menos cartão melhor, meu jesus"	0	0		1293	982
+986669760552361984	banco do brasil	2018-04-18 18:16:17	Bryan	Vou lá no Banco do Brasil fazer essa missão é depois no Itaú	0	1		1132	548
+986669710459785217	banco do brasil	2018-04-18 18:16:05	Disclaimer ??	@PirataDaTL Quero saber quanto é o rendimento por mês de uma poupança no banco do Brasil.	0	1		184	34
+986669560635052032	banco do brasil	2018-04-18 18:15:29	ana	banco do brasil esta tirando com a minha cara n eh possível	0	0		797	271
+986669075353952257	banco do brasil	2018-04-18 18:13:33	Ricardo Romeiro	EX Presidente do Banco Central confirma que Dilma levou o Brasil a pior recessão da história - Jornal do Pais https://t.co/jDzc6CqiLN	0	0		90	122
+986668967027707905	banco do brasil	2018-04-18 18:13:07	???~	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		113	562
+986668557156134926	banco do brasil	2018-04-18 18:11:30	CQB 241	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		114	74
+986668010604769281	banco do brasil	2018-04-18 18:09:19	robss	@FalaSaymon na rua que fica entre o banco do brasil e a móveis linhares, no final da quadra	0	1		590	295
+986667514129199118	banco do brasil	2018-04-18 18:07:21	Izabella	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		693	1329
+986666959713513482	banco do brasil	2018-04-18 18:05:09	Luiz Henrique ?	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		1024	1215
+986666917162299402	banco do brasil	2018-04-18 18:04:59	Maria Lima	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		2439	1949
+986666763868876800	banco do brasil	2018-04-18 18:04:22	Damásio Passos/MG	"RT @cursodamasio: Você viu? O edital para Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas…"	4	0		826	1080
+986666423996108800	banco do brasil	2018-04-18 18:03:01	Damásio Unaí	"O concurso de Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas bônus.
+Comece já seus estudos e esteja mais próximo de conquistar a aprovação.
+A prova será realizada dia 13 MAIO.
+
+?Damásio UNAÍ
+? 38 3676-3982
+? 38 9 9939-0013 https://t.co/JFs56WZ7Mq"	0	0		581	470
+986666242374283265	banco do brasil	2018-04-18 18:02:18	CarlosHenriqueMRocha	Em nosso gabinete, na Vice-Presidencia do CFA, os representantes do Banco do Brasil, Paulo Conti e Andrey, os conselheiros federais Ildemar Cassias(SC) e Rogério Ramos(TO), para tratar da assinatura de um protocolo de intenções sobre valores dos serviços de cobrança por boleto. https://t.co/RQxguebXYS	0	0		22	262
+986666143745224704	banco do brasil	2018-04-18 18:01:54	lukinhas pellegriine	Gostei de um vídeo @YouTube https://t.co/BiEiwoRnKs MAIOR ASSALTO A BANCO DO BRASIL !!	0	0		0	42
+986665846302040064	banco do brasil	2018-04-18 18:00:43	Swarley Stinson	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		405	402
+986665554894295042	banco do brasil	2018-04-18 17:59:34	vamos ser penta??	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		682	337
+986665005822173194	banco do brasil	2018-04-18 17:57:23	Son Meliodas	@CaioJordan23_ Arranja como vou roubar o banco do brasil e kkkkkk	0	0		8	11
+986664811923681283	banco do brasil	2018-04-18 17:56:37	PrêmioJovemCientista	"A cientista Marília Nunes, da UFRA, pesquisou a variedade genética do #pirarucu para determinar sua situação na natureza. https://t.co/M2BT8MxRAY
+?29ª Edição do PJC é do CNPq, em parceria com a Fundação Roberto Marinho, Fundação Grupo Boticário e Banco do Brasil https://t.co/lvEX7wfr1b"	0	2		16438	405
+986664806986985476	banco do brasil	2018-04-18 17:56:35	Michelle?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		154	611
+986664507744415744	banco do brasil	2018-04-18 17:55:24	Titosviana A.K.A #1 @RenektonBot Minion	@YagamiShinji Tem sim a multa. So da pra pagar no banco do brasil :/	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='5722ff20ba67083b', url='https://api.twitter.com/1.1/geo/id/5722ff20ba67083b.json', place_type='city', name='Brasília', full_name='Brasília, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-48.285982, -16.0524045], [-47.307264, -16.0524045], [-47.307264, -15.5001029], [-48.285982, -15.5001029]]]), attributes={})	688	2866
+986664183621136393	banco do brasil	2018-04-18 17:54:07	Axcel Bruzello	Daqui a pouco tenho que ir no Banco do Brasil	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='6403b7e96cc202f9', url='https://api.twitter.com/1.1/geo/id/6403b7e96cc202f9.json', place_type='city', name='São José', full_name='São José, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-48.7459849, -27.6418308], [-48.5994473, -27.6418308], [-48.5994473, -27.5232634], [-48.7459849, -27.5232634]]]), attributes={})	82	76
+986662967486885896	banco do brasil	2018-04-18 17:49:17	Não sei, to louca	"Vim ao Banco do Brasil, aí fui pegar a senha e o carinha lá me perguntou se era pra pagamento superior a 10.000 reais... 
+eu: não,rsrs e aquele leve sorrisinho 
+
+Era o boleto do resun no valor de dez reais 
+
+Todo dia a vida faz questão de te lembrar que cê é fodido"	0	5		27	35
+986662876470530048	banco do brasil	2018-04-18 17:48:55	Anderson Domingos	em Banco do Brasil https://t.co/Oq1s8iSovm	0	0		166	419
+986662858846023680	banco do brasil	2018-04-18 17:48:51	Jéssica	File (@ Centro Cultural Banco do Brasil (CCBB) - @ccbb_rj in Rio de Janeiro, RJ) https://t.co/cwBgQFMZlw	0	1	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	276	99
+986662275955257344	banco do brasil	2018-04-18 17:46:32	AnaTrouxa?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		373	831
+986661673288241153	banco do brasil	2018-04-18 17:44:08	Hells	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		334	462
+986660988744323072	banco do brasil	2018-04-18 17:41:25	Banco do Brasil	@kamiquintas    Olá, boa tarde! informo que o Banco do Brasil está reorganizando sua rede de agências para adequar a oferta de canais de atendimento ao perfil e às necessidades dos clientes, mantendo a competitividade no mercado e o ...	0	0		188645	14974
+986660965663027201	banco do brasil	2018-04-18 17:41:20	?biaaa	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		302	322
+986659867233607687	banco do brasil	2018-04-18 17:36:58	Sidney P Martins	Peraí, o @Santander Brasil tá zuando né? o site do banco não abre no Chrome e no I.E.	0	0		642	1747
+986659058013876232	banco do brasil	2018-04-18 17:33:45	laila ?	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		688	802
+986658457658052608	banco do brasil	2018-04-18 17:31:22	Expresso Popular	O convênio entre a Caixa Econômica Federal e a Receita Federal acabou e quem está precisando tirar um CPF, deve se ligar. As novas opções são o site da Receita Federal ou em qualquer agência dos Correios e do Banco do Brasil. #cpf #documento #ReceitaFederal #BaixadaSantista https://t.co/BnmgRKZkPI	0	0		557	125
+986658235745783809	banco do brasil	2018-04-18 17:30:29	daniela	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		62	75
+986658035761385472	banco do brasil	2018-04-18 17:29:41	mari?got7	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		902	474
+986658026886180864	banco do brasil	2018-04-18 17:29:39	O Barba	@exame Prezado diretor do Banco Central ñ adianta absolutamente nada reduzirem a taxa Selic se o Brasil possui mais de 30 milhões de desempregados e 60 milhões de famílias endividadas e paralelamente os bancos ñ estão emprestando dada  elevadas taxas de juros e por falta de confiança	0	0		0	77
+986657920774483969	banco do brasil	2018-04-18 17:29:14	Marcelo Renaud	@cm4g4lh44s @VitorPD19 @fitzca @b_ferri Como todo gamba acusou o golpe ! Nao tem nada sendo pago a CAIXA ! Estao tentando renegociar e nao vao conseguir ! O Padrinho de vcs está em CANA ! Seus malandros de MERDA ! Duvidas do Alllianz Parque ligue para o Banco do Brasil e consulta !	0	0		25	144
+986657645137416192	banco do brasil	2018-04-18 17:28:08	green	"RT @DiarioPE: Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil
+https://t.co/LQFVpjeU5F https://t.co/vNiM9UqaXX"	4	0		329	488
+986657485141487618	banco do brasil	2018-04-18 17:27:30	IVANI B HOFLING	RT @BHOFLING: @tathianF @luxsom1 Dilma Rousseff continua solta https://t.co/saeUFcm8ki Aécio vai virar reu, mas a PGR livrou o Operador de…	1	0		375	54
+986657424001118209	banco do brasil	2018-04-18 17:27:15	Mercados con MarcoFX	RT @InvestingBrasil: BB-BI vê espaço para avanço no papel da BR Distribuidora com recuperação do PIB #BRDT3 https://t.co/QwrfxuAQYM	1	0		2275	1048
+986657003924807680	banco do brasil	2018-04-18 17:25:35	nadis	@TairaneRibeiro @gabsisribeiro Quero botar fogo no Banco do Brasil, amiga! Tô com ódio do capital financeiro, dos bancos, dos banqueiros... Só isso! Kkkkk	0	1		158	111
+986656869342175233	banco do brasil	2018-04-18 17:25:03	Investing Brasil	BB-BI vê espaço para avanço no papel da BR Distribuidora com recuperação do PIB #BRDT3 https://t.co/QwrfxuAQYM	1	2		4211	174
+986656636046659584	banco do brasil	2018-04-18 17:24:07	davi ?	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		178	120
+986656187809697793	banco do brasil	2018-04-18 17:22:21	gisele	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		580	435
+986656031286661120	banco do brasil	2018-04-18 17:21:43	ramon	I'm at Banco do Brasil in Nilópolis, Rj https://t.co/vNhq25DE6h	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='abbb45debbf38127', url='https://api.twitter.com/1.1/geo/id/abbb45debbf38127.json', place_type='city', name='Nilópolis', full_name='Nilópolis, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.469372, -22.848515], [-43.390788, -22.848515], [-43.390788, -22.791609], [-43.469372, -22.791609]]]), attributes={})	1289	786
+986655546706153472	banco do brasil	2018-04-18 17:19:48	tao_recife	"RT @DiarioPE: Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil
+https://t.co/LQFVpjeU5F https://t.co/vNiM9UqaXX"	4	0		175	211
+986655418289094657	banco do brasil	2018-04-18 17:19:17	Erivaldo Gomes	RT @MarcelloEstevao: Com apoio do Brasil, a IDA, braço do Banco Mundial que apoia os 75 países mais pobres do mundo, lançou hoje sua primei…	5	0		133	559
+986655389222612998	banco do brasil	2018-04-18 17:19:10	juli a	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1201	388
+986655272499376131	banco do brasil	2018-04-18 17:18:42	agatinha tá perdida no Japão	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1984	306
+986654901211148289	banco do brasil	2018-04-18 17:17:14	Diario de Pernambuco	"Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil
+https://t.co/LQFVpjeU5F https://t.co/vNiM9UqaXX"	4	13		1013855	517
+986654808533880832	banco do brasil	2018-04-18 17:16:52	aru ana	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		2018	676
+986654210178592768	banco do brasil	2018-04-18 17:14:29	Guerra O Loco	RT @candace_ag: banco do brasil seu aplicativo é uma merda	2	0		309	219
+986653461784776706	banco do brasil	2018-04-18 17:11:31	Canhoteiro	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		1752	3674
+986653358885830657	banco do brasil	2018-04-18 17:11:06	? Iris Andrade	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		29	143
+986653282927042562	banco do brasil	2018-04-18 17:10:48	Angie	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		1468	665
+986652881641263104	banco do brasil	2018-04-18 17:09:12	Damasio Santos	"Você viu? O edital para Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas bônus.
+Comece já seus estudos e esteja mais próximo de conquistar a aprovação.
+A prova será realizada dia 13 MAIO. ?... https://t.co/vuoC2jTphb"	0	0		3373	240
+986652871512018946	banco do brasil	2018-04-18 17:09:10	sah	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		294	263
+986652363862757379	banco do brasil	2018-04-18 17:07:09	JAILSON E. CARNEIRO	Eu, funcionário aposentado do Banco do Brasil sou pela Fusão de todos os Bancos Federais num só Banco, mais eficiente e menos cabide de cargos comissionados. BB+CEF+BASA+BNB+BNDES = BFB - Banco Federal do Brasil. https://t.co/X1xFAHDmcU	0	0		173	164
+986652127836753920	banco do brasil	2018-04-18 17:06:13	Ewerton Luiz Pedrão	Por favor, pior Banco do Brasil @itau , façam o favor de melhorarem o atendimento na rede de agências nem a Caixa econômica Federal demora tanto quanto vcs!	0	1		29	262
+986652093271375872	banco do brasil	2018-04-18 17:06:04	Bruno, the Planeswalker.	Onde você enterraria um tesouro? — no banco do brasil https://t.co/2dl0vVnR8o	0	0		46	38
+986651751779651584	banco do brasil	2018-04-18 17:04:43	lino	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		764	784
+986651413425082368	banco do brasil	2018-04-18 17:03:22	aurora	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		839	581
+986651345674489857	banco do brasil	2018-04-18 17:03:06	Puuurpo	@lucas_signori No caso trampar no banco do Brasil então KKKKKKKKKKKKKK	0	0		708	371
+986651091868749825	banco do brasil	2018-04-18 17:02:06	carol innecco	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		513	348
+986650680118120453	banco do brasil	2018-04-18 17:00:27	+gabs+	AI ACHEI tem um perto do west shopping, em frente ao banco do brasil, no meu segundo país campo grande	0	0		1945	803
+986650526375907328	banco do brasil	2018-04-18 16:59:51	sharkboy	RT @eusharkboy: nao acredito q o professor vai rouba o banco do brasil em recife https://t.co/y1Ww6nMQGn	1	0		14088	14668
+986650019636924417	banco do brasil	2018-04-18 16:57:50	Hanna	RT @Ary_AntiPT: Lembrando que a Joesley aparece emprestando R$ 3 milhões para o Operador de Dida Bendine do Banco do Brasil e o @MPF_PGR co…	25	0		73	44
+986649895909122048	banco do brasil	2018-04-18 16:57:20	Lari ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		278	267
+986649480412975105	banco do brasil	2018-04-18 16:55:41	Maria Antônia	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		438	368
+986649361630232578	banco do brasil	2018-04-18 16:55:13	Chogiwa Store	"(?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pagamento por depósito/transferência: caixa, itaú, sicoob, banco do brasil, bradesco, santander ou paypal
+• Orçamentos pela DM válido por 3 dias corridos https://t.co/471palKcmZ"	4	8		2918	91
+986648534039564288	banco do brasil	2018-04-18 16:51:56	Damásio Cascavel	"RT @cursodamasio: Você viu? O edital para Escriturário do Banco do Brasil foi publicado!
+Elaboramos um curso específico e online com aulas…"	4	0		921	354
+986648336429182978	banco do brasil	2018-04-18 16:51:09	Tuco	RT @Ar_thorr: será que o motivo do banco do brasil patrocinar a seleção de vôlei é pra melhorar o saque?	7	0		299	257
+986648296541257728	banco do brasil	2018-04-18 16:50:59	aimeee	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		135	289
+986648068203347968	banco do brasil	2018-04-18 16:50:05	Izabela	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		765	651
+986647836069695492	banco do brasil	2018-04-18 16:49:09	Fernando Tolentino	"Mais uma unidade do Banco do Brasil fechada! Terraço Shopping.
+Ao menos, nesta não causou desemprego. https://t.co/cc3JVmPNNz"	0	0		104	85
+986647059540389888	banco do brasil	2018-04-18 16:46:04	Tauane	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		314	290
+986646980050014209	banco do brasil	2018-04-18 16:45:45	Marcus Vinicius	Brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/4iSWkIWk3V #Politica #Brasil #Economia https://t.co/KGDBGm5az6	0	0		3055	262
+986646478004391936	banco do brasil	2018-04-18 16:43:46	frôzinha	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		790	668
+986645727362330624	banco do brasil	2018-04-18 16:40:47	Eric López	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		2346	1378
+986645069880025088	banco do brasil	2018-04-18 16:38:10	Klein.	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1706	818
+986644612336021509	banco do brasil	2018-04-18 16:36:21	Bia Monteiro	vão invadir qual banco agora? Banco do Brasil? kakaka https://t.co/nHWoIP90pG	0	4		517	304
+986644529464954880	banco do brasil	2018-04-18 16:36:01	Rasheed Abou-Alsamh	Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/ULgerxHRin	0	0		2871	1562
+986644527497842688	banco do brasil	2018-04-18 16:36:00	gabriel™	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		384	327
+986643446776680448	banco do brasil	2018-04-18 16:31:43	L?ca? ??	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		1053	995
+986642735682719746	banco do brasil	2018-04-18 16:28:53	may	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		2410	1959
+986642009082486785	banco do brasil	2018-04-18 16:26:00	ata	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		466	205
+986641544642953216	banco do brasil	2018-04-18 16:24:09	Jornais Virtuais	Baixe Apostila Digital Banco do Brasil https://t.co/TwhaTeRkKd	0	0		620	937
+986641158574047232	banco do brasil	2018-04-18 16:22:37	Phill	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		350	1324
+986640532532355072	banco do brasil	2018-04-18 16:20:08	daebak	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		714	418
+986640262863704064	banco do brasil	2018-04-18 16:19:04	RR	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		399	351
+986639941752033281	banco do brasil	2018-04-18 16:17:47	ju; euphoria	"RT @ApaquePE: É tempo de solidariedade. Vamos ajudar nossos irmãos de Bodocó, que sofreu com as fortes chuvas. 
+
+Doações para os desabrigad…"	12	0		34	100
+986639841201917952	banco do brasil	2018-04-18 16:17:23	ph ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		146	154
+986639795697971200	banco do brasil	2018-04-18 16:17:12	rennan com 2 n	tenho q abrir uma conta no banco do Brasil tncu banco horrível	0	1		438	287
+986639437709930496	banco do brasil	2018-04-18 16:15:47	Bruno Rufino	"RT @ApaquePE: É tempo de solidariedade. Vamos ajudar nossos irmãos de Bodocó, que sofreu com as fortes chuvas. 
+
+Doações para os desabrigad…"	12	0		628	1290
+986638959030792194	banco do brasil	2018-04-18 16:13:53	Concurso e Apostilas	Baixe o Apostila Digital Banco do Brasil Conteúdo da Apostila Digital do Banco do Brasil - Escriturário:Material completo para quem se prepara para o concurso.Elaboração feita de acordo com a solicitação... https://t.co/YiPcFLticc	0	0		330	24
+986638526199590912	banco do brasil	2018-04-18 16:12:10	Mari	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		147	100
+986637757501108224	banco do brasil	2018-04-18 16:09:06	Pedro Neves	Ouvi dizer que essa temporada vai ser um assalto no banco central aqui do Brasil #LaCasaDePapel3	0	0		178	836
+986637442072629249	banco do brasil	2018-04-18 16:07:51	monamu	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1154	1139
+986636819294015490	banco do brasil	2018-04-18 16:05:23	Doris Macedo	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		1319	994
+986636595787943936	banco do brasil	2018-04-18 16:04:29	uiu o TERRORISTA	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		944	742
+986635982337343488	banco do brasil	2018-04-18 16:02:03	Kátia Candian	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		143	422
+986635741144010753	banco do brasil	2018-04-18 16:01:06	Henrique FÃN DO LUKÃO	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		85	57
+986635620645818368	banco do brasil	2018-04-18 16:00:37	bia	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		103	115
+986635165148512258	banco do brasil	2018-04-18 15:58:48	luisa está reputada;	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		835	917
+986633988847611904	banco do brasil	2018-04-18 15:54:08	sei lá	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		611	607
+986633580116881409	banco do brasil	2018-04-18 15:52:30	sharkboy	nao acredito q o professor vai rouba o banco do brasil em recife https://t.co/y1Ww6nMQGn	1	7		14088	14668
+986633296275759104	banco do brasil	2018-04-18 15:51:23	Paulo Rego	"Secretário de Transportes e presidente do Metrô no banco dos réus por improbidade. Mas não disseram que nunca houve corrupção no Reino do Tucanistão? ? Onde está a indignação da população mais ""esclarecida"" do Brasil? ? https://t.co/qEJCYwE2VS"	0	0		1720	4996
+986632657692954624	banco do brasil	2018-04-18 15:48:50	Lara Ximenes Gidalte	@Caixa Há 2 horas espero para resolver uma simples questão e NADA...até agora! Obrigada pela eficiência do serviço público no Brasil...quem dera vocês pudessem pagar o meu dia de aula que FALTEI hoje para chegar no banco às 11, tentar sair até às 13 e não conseguir!	0	0		490	337
+986632654425608192	banco do brasil	2018-04-18 15:48:50	MaluCabral	Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/WqPDPLXz7h	0	0		940	682
+986632487374909440	banco do brasil	2018-04-18 15:48:10	uo? ?	"RT @rhetiel: A conta para doação é: 
+Banco do Brasil 
+Maria Letícia de Carvalho Feliciano
+Agência: 16195
+CC: 258474"	6	0		551	363
+986631925229150208	banco do brasil	2018-04-18 15:45:56	João Paulo Moury Coelho	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		4	41
+986631678503411713	banco do brasil	2018-04-18 15:44:57	pam	a cada dia que eu vou no banco do brasil resolver um problema eu volto com outro problema aaaaa que odio disso parece minha vida	0	0		456	136
+986631441839685632	banco do brasil	2018-04-18 15:44:01	gabriel	"KKKKKKKKKKK NAO FAZ SENTIDO NENHUM TER UMA PARTE 3
+
+VÃO ROUBAR O QUE??? O BANCO DO BRASIL? https://t.co/GgNhhJVrHd"	0	0		722	420
+986631075022737414	banco do brasil	2018-04-18 15:42:33	priscilla	"RT @rhetiel: A conta para doação é: 
+Banco do Brasil 
+Maria Letícia de Carvalho Feliciano
+Agência: 16195
+CC: 258474"	6	0		279	349
+986630623153590272	banco do brasil	2018-04-18 15:40:45	Haerifex	Hoje constatei que o Banco do Brasil não está interessado em ter novos clientes. Estão pondo uma cota de contas pra abrir por dia, filas e todo tipo de dificuldade pra abrir uma conta.	0	0		4838	2052
+986630060676452353	banco do brasil	2018-04-18 15:38:31	THAIS SOUSA	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		540	352
+986629999875756032	banco do brasil	2018-04-18 15:38:17	CRISTO Reina	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		410	2571
+986629980258906112	banco do brasil	2018-04-18 15:38:12	Marcos Dantas	Reunião com amigos do Banco do Brasil!!! em Edifício Parque da Sementeira https://t.co/tetREKjybB	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='4ced2a0296d13aad', url='https://api.twitter.com/1.1/geo/id/4ced2a0296d13aad.json', place_type='city', name='Aracaju', full_name='Aracaju, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-37.168411, -11.1448224], [-37.033073, -11.1448224], [-37.033073, -10.8624688], [-37.168411, -10.8624688]]]), attributes={})	516	932
+986629906133078016	banco do brasil	2018-04-18 15:37:54	Brasil de Fato	"Famílias do MST ocupam o prédio da Caixa Econônica Federal em Belém do Pará.
+As famílias exigem a continuidade do projeto de habitação nas áreas de reforma agrária e só sairão depois de garantir uma reunião com o diretor do banco. 
+https://t.co/bWOi0B8lHE https://t.co/erUo26ml7l"	17	34		103292	372
+986629904400896000	banco do brasil	2018-04-18 15:37:54	madalena lemes	Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/Xs50gFpRe3	0	0		3842	3008
+986629815624224769	banco do brasil	2018-04-18 15:37:33	Camila A. Moura	@duetbusan @renitidina @Natty_hatake @Hobi_lau Como tu não tem cartão, é mais fácil comprar pelas cegs, pq elas aceitam depósito, aí se for na Caixa Econômica tu faz o depósito em caixa lotérica e se for Banco do Brasil, tem as agências dos correios. Outros bancos eu acho q tem q ir direto neles.	0	1		233	207
+986629528368926721	banco do brasil	2018-04-18 15:36:24	silv	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		707	152
+986629256250880003	banco do brasil	2018-04-18 15:35:20	``BRO``	"RT @ApaquePE: É tempo de solidariedade. Vamos ajudar nossos irmãos de Bodocó, que sofreu com as fortes chuvas. 
+
+Doações para os desabrigad…"	12	0		52	83
+986629230904664065	banco do brasil	2018-04-18 15:35:13	Meu Vidigal	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		57	382
+986628712526467072	banco do brasil	2018-04-18 15:33:10	camila	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		844	343
+986628260959342592	banco do brasil	2018-04-18 15:31:22	PEDRO ACIOLI FILHO	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		2920	1897
+986627597512699909	banco do brasil	2018-04-18 15:28:44	Alfredo Silva	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		94	306
+986627536208777217	banco do brasil	2018-04-18 15:28:29	Lucas	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		1847	835
+986627321917591553	banco do brasil	2018-04-18 15:27:38	Reynaldo Ferreira Jr	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		19	193
+986626917456543744	banco do brasil	2018-04-18 15:26:02	isa mullered	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		759	229
+986626405101375488	banco do brasil	2018-04-18 15:24:00	Jãozin do Vôlei	"RT @rhetiel: A conta para doação é: 
+Banco do Brasil 
+Maria Letícia de Carvalho Feliciano
+Agência: 16195
+CC: 258474"	6	0		162	209
+986626390417199106	banco do brasil	2018-04-18 15:23:56	Ana ??	Nossa eu não sei mais o que fazer com  esses juros do Banco do Brasil me salvaaaaaa @nubank	0	0		1150	819
+986626333382918144	banco do brasil	2018-04-18 15:23:43	Grazi	@uaimarilia a Alessandra é ótima, é na rua do banco do brasil onde aqueles negócios de tatto e piercing	0	0		272	269
+986626262297923585	banco do brasil	2018-04-18 15:23:26	Michel Verzeletti	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		47	183
+986626219834830849	banco do brasil	2018-04-18 15:23:16	Josyanne Rezek	O gerente do Banco do Brasil da Coronel Antonino prioriza atendimentos para senhoras de meia idade com saldo e salto alto na agência que ele administra. Que nojo,meu Deus! ? Depois as pessoas não entendem prq trocaria todos dessa cidade pelo mar,seus lindus.? #BB #bancodobrasil	0	2		398	188
+986625914493644800	banco do brasil	2018-04-18 15:22:03	Bolonhez ???	"RT @ramosbrunow: terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tu…"	13	0		106	395
+986625250774388737	banco do brasil	2018-04-18 15:19:25	Ivan Valença Alves	"RT @TRT6_PE: Devido a problemas estruturais, posto do Banco do Brasil na sede do TRT-PE permanece sem funcionar
+https://t.co/y8WEG0NJWp
+#Cu…"	0	0		93	662
+986625235167449088	banco do brasil	2018-04-18 15:19:21	Tomé	@uaimarilia @jesmontalvao Eu furei o meu lá na etapa A, não sei o nome do estúdio mas é na rua do Banco do Brasil	0	0		636	408
+986625110323982336	banco do brasil	2018-04-18 15:18:51	Juan Ribeiro	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		1090	3590
+986625089662746624	banco do brasil	2018-04-18 15:18:46	Bruno Ramos	"terceira temporada de La Casa de Papel vai ser em São Paulo e eles vão assaltar o Banco Do Brasil
+
+Os bandido vão mudar tudo de nome: São Paulo, Goiania, Belo Horizonte, Bahia e Ceará
+
+O Rio fica Rio mesmo
+
+O professor não leva nada no assalto
+Pq no Brasil professor num ganha bem"	13	56		3022	238
+986624654654758912	banco do brasil	2018-04-18 15:17:02	T_AMO_INTER ?	RT @LucasCollar: Lucca já está em Porto Alegre. Anuncio do jogador deve acontecer após a volta do Inter de Salvador para o jogo da Copa do…	25	0		960	764
+986623937537888256	banco do brasil	2018-04-18 15:14:11	Gustavo Kahil	#BRDT3 Banco do Brasil Investimentos inicia cobertura de ações da BR Distribuidora – Money Times https://t.co/relcTECHzl	0	0		1890	1667
+986623884874125312	banco do brasil	2018-04-18 15:13:59	Money Times	#BRDT3 Banco do Brasil Investimentos inicia cobertura de ações da BR Distribuidora – Money Times https://t.co/49hVVxyXUm	0	1		4570	406
+986623810723110913	banco do brasil	2018-04-18 15:13:41	maria e	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		249	279
+986623556632096769	banco do brasil	2018-04-18 15:12:41	Jehan Porto	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		16545	178
+986623364491104257	banco do brasil	2018-04-18 15:11:55	ninê (:	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		1161	328
+986623282341384192	banco do brasil	2018-04-18 15:11:35	?VN?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1210	998
+986623192067399681	banco do brasil	2018-04-18 15:11:14	Thaís Oliveira	Logo mais vou até Pariquera SÓ pra ir no Banco do Brasil... Puta merda	0	0		260	244
+986623187344674816	banco do brasil	2018-04-18 15:11:13	Silvia Lula Castelhano	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		283	359
+986622655842447360	banco do brasil	2018-04-18 15:09:06	Stanley Burburinho	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		58244	1178
+986622568458280965	banco do brasil	2018-04-18 15:08:45	Magri?	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		1135	573
+986622459779706880	banco do brasil	2018-04-18 15:08:19	xulia	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		318	645
+986622447414857728	banco do brasil	2018-04-18 15:08:16	Hermínio Neto	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		101	308
+986622405647925253	banco do brasil	2018-04-18 15:08:06	pônei	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		730	535
+986622396466647041	banco do brasil	2018-04-18 15:08:04	Bruna ?	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		211	171
+986622079578595328	banco do brasil	2018-04-18 15:06:48	a_boutsports	RT @robe_sampaio: Conta poupança, Banco do Brasil, 14.225-5, agência 1834-1, Luciana Almeida Sampaio	89	0		41	613
+986622077410185216	banco do brasil	2018-04-18 15:06:48	diaba	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1494	1882
+986622011026952194	banco do brasil	2018-04-18 15:06:32	carla viviane	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		318	990
+986621964751077377	banco do brasil	2018-04-18 15:06:21	Anne	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		321	276
+986621907050074113	banco do brasil	2018-04-18 15:06:07	x	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		4	63
+986621618960109570	banco do brasil	2018-04-18 15:04:59	JAPS	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		27	108
+986621529868914689	banco do brasil	2018-04-18 15:04:37	M.	@SavnT8 Cara, fui fazer isso no banco do Brasil e é magia negra, só funciona se o atendente libera pra vc kkkkkk	0	0		1389	638
+986621120513179652	banco do brasil	2018-04-18 15:03:00	pedro	"RT @Chanyyuta: Peço a ajuda  para salvar a  vida meu gato niquinho, pois sofreu uma insuficiência respiratória e renal. 
+
+Agência: 6858-6 (…"	12191	0		1473	333
+986620940690886656	banco do brasil	2018-04-18 15:02:17	Rubinho	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		54	319
+986620932566470656	banco do brasil	2018-04-18 15:02:15	manolinarias	RT @JornalOGlobo: Jovem brasileiro assassinado em Nova York era filho de diretor do Banco do Brasil https://t.co/hAuTgDsD2U #MarinaCaruso h…	26	0		2744	3183

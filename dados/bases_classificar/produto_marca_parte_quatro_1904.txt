@@ -1,0 +1,285 @@
+	Unnamed: 0	query	data	usuario	conteudo	retweets	favoritos	local	seguidores	amigos	tag	citados	n_citados
+27729	986543437561417730	itau	2018-04-18 09:54:19	Cristiano Santana	@itau Legal @itau Android vai ter também né, pois até agora não liberaram o touchID, VCS ESQUECEM que tem cliente em ambas as plataformas.	0.0	1.0		30.0	148.0	itau	itau itau	2
+27740	986541730567786496	itau	2018-04-18 09:47:32	VAGAS.com.br	Vagas p/ CAIXA - Itaú Unibanco - Caieiras/SP - https://t.co/EVQr6TvnBB	0.0	0.0		6349.0	40.0	itau		0
+27743	986539593859321857	itau	2018-04-18 09:39:02	Comandante Jota	Essa é a safadinha da floresta, com patrocínio da Natura e do Itaú https://t.co/3m3Ppc0BlA	0.0	1.0		13669.0	7768.0	itau		0
+27745	986539028630654976	itau	2018-04-18 09:36:48	Lucas Soares	"@itau 
+Olá, por favor estou precisando de ajuda, estou no exterior sem meu celular (consertando e preciso fazer um pagamento com a minha conta no itaú) ja mandei mensagem no facebook de voces mandei mensagem pelo aplicativo, e agora  por aqui, por favor ajudem 
+e uma emergência"	0.0	0.0		1.0	1.0	itau	itau	1
+27752	986537309116993536	itau	2018-04-18 09:29:58	Fabiola Fah ?	I'm at Votorantim Cimentos Itaú de Minas-Mg https://t.co/L1KyI3Uj82	0.0	0.0		213.0	681.0	itau		0
+27753	986537302250926082	itau	2018-04-18 09:29:56	Erico Melo	Itaú faz concorrência e fecha com três seguradoras para venda de dental, prestamista e vida https://t.co/F2tgpI3Mjz	0.0	0.0		682.0	372.0	itau		0
+27759	986534736616153088	itau	2018-04-18 09:19:44	LULA Livre	RT @robsonhcosta: Temer é insignificante, o domínio é do sistema financeiro, do Itaú, do Bradesco&amp;#8217;, diz Requião https://t.co/r433VSmr…	2.0	0.0		1244.0	1873.0	itau	robsonhcosta	1
+27765	986532183966998529	itau	2018-04-18 09:09:36	?? Robson	Temer é insignificante, o domínio é do sistema financeiro, do Itaú, do Bradesco&amp;#8217;, diz Requião https://t.co/r433VSmrxz	2.0	1.0		1453.0	2775.0	itau		0
+27773	986527529283522560	itau	2018-04-18 08:51:06	Enylce mattos	Podre mesmo. Com salário nababescos,se metem em negociatas. Barroso tem um Itaú de vantagens. Gilmar é o caso de venda de faculdade,fora o que a gente não sabe. As filhas de alguns agem como incapazes, cavando indicações. https://t.co/c0dA7VkGAo	0.0	1.0		1010.0	1556.0	itau		0
+27776	986526953103642624	itau	2018-04-18 08:48:49	Kel	Fiquei com dó da cobra que morreu durante um curto circuito na fiação do banco Itaú. :( ela era enorme, linda e nada comum.	0.0	0.0		588.0	435.0	itau		0
+27777	986525818418532352	itau	2018-04-18 08:44:18	Patu em Foco	Blog Cidade News Itaú: Açude de Coremas continua aumentando o seu volume https://t.co/wnnA3HFn3w	0.0	0.0		577.0	2212.0	itau		0
+27779	986525510850240512	itau	2018-04-18 08:43:05	Patu em Foco	Blog Cidade News Itaú: TSE nega recurso e mantém cassação do governador d... https://t.co/qSwTonn6wh	0.0	0.0		577.0	2212.0	itau		0
+27780	986525222022139905	itau	2018-04-18 08:41:56	Patu em Foco	Blog Cidade News Itaú: Ceará tem três mortes por H1N1 neste ano, diz Secr... https://t.co/YTUZvYVCQp	0.0	0.0		577.0	2212.0	itau		0
+27783	986524996423086080	itau	2018-04-18 08:41:02	Patu em Foco	Blog Cidade News Itaú: Mega-Sena, concurso 2.032: ninguém acerta as seis ... https://t.co/5dyCElxOgp	0.0	0.0		577.0	2212.0	itau		0
+27784	986524324814376960	itau	2018-04-18 08:38:22	Patu em Foco	Blog Cidade News Itaú: Barbara Bush morre aos 92 anos https://t.co/5o9eJMQvi7	0.0	0.0		577.0	2212.0	itau		0
+27786	986524063240728577	itau	2018-04-18 08:37:20	Patu em Foco	Blog Cidade News Itaú: Avião faz pouso de emergência na Filadélfia após p... https://t.co/EF1w4qlatj	0.0	0.0		577.0	2212.0	itau		0
+27787	986523781521952768	itau	2018-04-18 08:36:12	Patu em Foco	Blog Cidade News Itaú: Em jogo truncado, Grêmio empata com Cerro no Parag... https://t.co/q7PoT6skAJ	0.0	0.0		577.0	2212.0	itau		0
+27789	986523534204784641	itau	2018-04-18 08:35:13	Patu em Foco	Blog Cidade News Itaú: Candidato único na eleição, Rogério Caboclo é elei... https://t.co/fUothCGnwy	0.0	0.0		577.0	2212.0	itau		0
+27804	986505785382440960	itau	2018-04-18 07:24:42	The Enoquinho ?? ?? ?? ??	"RT @AMAROK_LUPPUS: Lula, o ""pai dos pobres"", tinha mais dinheiro em conta corrente que o dono do Itaú. https://t.co/kZZBMQNlI1"	24.0	0.0		1726.0	1704.0	itau	amarok_luppus	1
+27806	986503559901478913	itau	2018-04-18 07:15:51	hillary ?~	"RT @DopeKstore: LOVE MYSELF BRACELET ?
+• 1 Unidade
+• R$250,00 + frete 
+• Pgto somente por depósito bancário no Itaú ou Caixa Econômica
+• Pe…"	6.0	0.0		2865.0	980.0	itau	dopekstore	1
+27819	986492169119830016	itau	2018-04-18 06:30:35	Dope Kstore	"?CEG: Love Yourself TEAR?
+
+?R$115,00 - Unidade 
+?R$410,00 - Combo
+?Pgto - Depósito ou Transferência bancária no Itau ou Caixa Econômica 
+?Prazo 30/04
+?Form: https://t.co/4nQJ5FWNla https://t.co/0iufgFWFOZ"	66.0	189.0		7184.0	28.0	itau		0
+27827	986482674058526720	itau	2018-04-18 05:52:52	Francisco Monteiro	@itau esperando ajuda ate agora	0.0	0.0		97.0	432.0	itau	itau	1
+27829	986479353348403200	itau	2018-04-18 05:39:40	miss misery	a sessão mais próxima de mim de um filme que eu qro ver e no espaço Itaú da augusta aaaa	0.0	0.0		189.0	144.0	itau		0
+27842	986469280983199744	itau	2018-04-18 04:59:38	Paoli	@Black_Sheepito Itaú Cerro Alto. Cerca de casa.	0.0	0.0		1269.0	1202.0	itau	black_sheepito	1
+27848	986467026213498881	itau	2018-04-18 04:50:41	Moren?o d? Porr?	não sou banco Itaú, mas fui feita pra você — Kkkkk boa cantada, se revela https://t.co/6mpzfIgg7O	0.0	2.0		4339.0	2210.0	itau		0
+27859	986463809559724032	itau	2018-04-18 04:37:54	summertime gladness	o video da cobra no itau	0.0	0.0		3918.0	390.0	itau		0
+27866	986461816774692864	itau	2018-04-18 04:29:59	Natalia C da Silva	@itau Diante do exposto, fico no aguardo de um retorno coerente para resolver esta situação e me coloco à disposição para qualquer esclarecimento.	0.0	0.0		0.0	20.0	itau	itau	1
+27868	986461402926862337	itau	2018-04-18 04:28:20	Natalia C da Silva	@itau Continuando... Esta impossibilidade na resolução do meu problema na data de hoje fará com que seja cobrado o valor de 2% ao dia do saldo devedor de abril, que é de R$ 4.295,94, totalizando - nos meus humildes conhecimentos matemáticos - R$ 85,92, certo!?	0.0	0.0		0.0	20.0	itau	itau	1
+27869	986461100316164096	itau	2018-04-18 04:27:08	Ramon	Coitada da cobra do Itaú :(	0.0	3.0		149.0	394.0	itau		0
+27870	986461044888489985	itau	2018-04-18 04:26:55	Natalia C da Silva	@itau Sorte que salvei o texto, pois após algumas tentativas de enviar a 1a mensagem sem concluir o meu relato devido ao limite de carácteres no portal de atendimento, apareceu na tela do meu celular a seguinte mensagem: “Houve um problema no serviço. Por favor tente mais tarde”.	0.0	0.0		0.0	20.0	itau	itau	1
+27873	986460628087918592	itau	2018-04-18 04:25:15	Patu em Foco	Blog Cidade News Itaú: Natal registra 61 milímetros de chuva desde a manh... https://t.co/1vSYeyhyiw	0.0	0.0		577.0	2212.0	itau		0
+27874	986460395786432512	itau	2018-04-18 04:24:20	Natalia C da Silva	@itau Dito isso, a atendente me disponibilizou o telefone 08007261144, pelo qual ainda não tentei contato tendo em vista que eu entrei em contato após o horário de atendimento da central de negociação. Esta impossibilidade na resolução do meu problema na data de hoje fará com que	0.0	0.0		0.0	20.0	itau	itau	1
+27875	986460349800046593	itau	2018-04-18 04:24:09	Patu em Foco	Blog Cidade News Itaú: Após chuvas, maior barragem do RN começa a cobrir ... https://t.co/WbD2jOWzGg	0.0	0.0		577.0	2212.0	itau		0
+27877	986460160905367552	itau	2018-04-18 04:23:24	Natalia C da Silva	@itau A atendente me respondeu que a ligação para esta central é paga. Então relatei a minha insatisfação quanto ao Itaú - que eu considero uma instituição de respeito - por não disponibilizar um telefone gratuito para um cliente endividado que quer resolver o seu problema.	0.0	0.0		0.0	20.0	itau	itau	1
+27878	986460017606975488	itau	2018-04-18 04:22:50	Patu em Foco	Blog Cidade News Itaú: Reprovação ao governo Temer é de 70%, aponta pesqu... https://t.co/kD399lMeHj	0.0	0.0		577.0	2212.0	itau		0
+27879	986459991858143232	itau	2018-04-18 04:22:44	Natalia C da Silva	@itau Nesse momento, questionei a atendente sobre o custo da ligação para a central de renegociação - 4004-1144, tendo em vista que estava ligando de um telefone fixo, no horário que tenho disponibilidade, pois meu celular é pré-pago.	0.0	0.0		0.0	20.0	itau	itau	1
+27881	986459641180819456	itau	2018-04-18 04:21:20	Patu em Foco	Blog Cidade News Itaú: PSB deve decidir oficialmente candidatura de Joaqu... https://t.co/A58NntEcR5	0.0	0.0		577.0	2212.0	itau		0
+27882	986459385537925120	itau	2018-04-18 04:20:19	Patu em Foco	Blog Cidade News Itaú: Aneel aprova aumento de 14,81% na conta de energia... https://t.co/nanIa5dneV	0.0	0.0		577.0	2212.0	itau		0
+27883	986459293422702592	itau	2018-04-18 04:19:57	Natalia C da Silva	@itau Após minutos na central de atendimento Itaú, fui direcionada para a central Itaucard, onde recebi um bom atendimento, porém, mais uma vez, surpreendi-me negativamente quando a atendente me informou que o atendimento de renegociação não estava disponível no momento.	0.0	0.0		0.0	20.0	itau	itau	1
+27884	986458952840790016	itau	2018-04-18 04:18:36	Patu em Foco	Blog Cidade News Itaú: Fátima visita Lula na cadeia e diz que leva ‘abraç... https://t.co/uYX2vW0Naz	0.0	0.0		577.0	2212.0	itau		0
+27887	986458595456843776	itau	2018-04-18 04:17:11	Patu em Foco	Blog Cidade News Itaú: ABC renova com quatro revelações da base https://t.co/xaKTiKVTdi	0.0	0.0		577.0	2212.0	itau		0
+27888	986458390619721728	itau	2018-04-18 04:16:22	Natalia C da Silva	@itau Ao chegar em minha residência, após um dia exaustivo de trabalho, entrei em contato através do telefone disponibilizado no meu itaucard - 4004-4828, de modo a solicitar a negociação desta dívida, pois nem com uma receita extra que irei receber conseguirei quitar.	0.0	0.0		0.0	20.0	itau	itau	1
+27890	986458045172600837	itau	2018-04-18 04:15:00	Natalia C da Silva	@itau Pois bem, hoje é dia 17 e decidir seguir os ensinamentos de um de meus professores da graduação, que é também atual colaborador do Itaú, e me tornar uma credora, não mais uma devedora.	0.0	0.0		0.0	20.0	itau	itau	1
+27891	986457949181792257	itau	2018-04-18 04:14:37	Patu em Foco	Blog Cidade News Itaú: RN tem oito serviços especializados em microcefali... https://t.co/CxvvjszMMH	0.0	0.0		577.0	2212.0	itau		0
+27892	986457927383953409	itau	2018-04-18 04:14:32	Natalia C da Silva	@itau A colaboradora me orientou a pagar parcialmente conforme conseguisse algum valor e, no dia 28 deste mês - data de fechamento da fatura - retornar à agência para solicitar o parcelamento do saldo devedor restante.	0.0	0.0		0.0	20.0	itau	itau	1
+27894	986457662635290626	itau	2018-04-18 04:13:28	Patu em Foco	Blog Cidade News Itaú: Primeira Turma do STF decide transformar Aécio Nev... https://t.co/YJfHeNg6cp	0.0	0.0		577.0	2212.0	itau		0
+27895	986457577297993728	itau	2018-04-18 04:13:08	Natalia C da Silva	@itau Porém, fui surpreendida negativamente com a resposta da colaboradora, pois, considerando que eu já havia realizado o pagamento de um valor x dias antes de me dirigir à agência, o parcelamento não estava disponível.	0.0	0.0		0.0	20.0	itau	itau	1
+27896	986457389380579328	itau	2018-04-18 04:12:23	Patu em Foco	Blog Cidade News Itaú: Professores de rede estadual mantém greve https://t.co/eR1Va8G3XY	0.0	0.0		577.0	2212.0	itau		0
+27897	986457144127098880	itau	2018-04-18 04:11:25	Patu em Foco	Blog Cidade News Itaú: Assembleia tem 45 dias para votar contas de Robins... https://t.co/jG61kAtIIH	0.0	0.0		577.0	2212.0	itau		0
+27899	986456875188281344	itau	2018-04-18 04:10:21	Patu em Foco	Blog Cidade News Itaú: MST ocupa sede da Prefeitura de Ceará-Mirim, na Gr... https://t.co/GmnGsZbD39	0.0	0.0		577.0	2212.0	itau		0
+27900	986456522531266561	itau	2018-04-18 04:08:57	Patu em Foco	Blog Cidade News Itaú: Polícia Federal faz operação de combate ao contrab... https://t.co/SBPgfolmtB	0.0	0.0		577.0	2212.0	itau		0
+27901	986456369866911745	itau	2018-04-18 04:08:20	Natalia C da Silva	@itau Entretanto, tive gastos acima do esperado em março deste ano e, infelizmente, não consegui pagar o valor mínimo no mês subsequente. Antes da data de vcto da fatura, fui até uma agência solicitar o parcelamento da mesma tendo em vista a impossibilidade de pagamento integral.	0.0	0.0		0.0	20.0	itau	itau	1
+27904	986456126769324037	itau	2018-04-18 04:07:22	Jay	@mizdoriya o itaú vive me mandando mensagem —inclusive já tá pra quase um ano — falando de uma tal de maria que tá devendo blablabla e que está num processo jurídico com eles eu fico ??? já deu https://t.co/JJfP6LMIwW	0.0	6.0		35.0	62.0	itau	mizdoriya	1
+27907	986455550308372481	itau	2018-04-18 04:05:05	Natalia C da Silva	@itau Meu descontrole aliado ao serviço oferecido fez com que minha vida financeira se tornasse a famosa “bola de neve”. Até março deste ano consegui realizar o pagamento da minha fatura do cartão de crédito em um valor maior que o mínimo, pagando assim os juros rotativos.	0.0	0.0		0.0	20.0	itau	itau	1
+27909	986454923083763713	itau	2018-04-18 04:02:35	Daniela.¥S	"Rico, eu? #NãoPoupeInvista by @ricocomvc ?????
+
+estou de olho vivo, em? #mercado #money #éGain #itau #investir #RICO #sucesso #euquero"	0.0	2.0		919.0	141.0	itau	ricocomvc	1
+27914	986454303379542016	itau	2018-04-18 04:00:08	Natalia C da Silva	@itau Possuo conta corrente no Itaú desde 2011, utilizando assiduamente os serviços de cartão de crédito. Por conta do serviço oferecido “liberação emergencial de crédito” no decorrer no tempo acabei me perdendo nos gastos.	0.0	0.0		0.0	20.0	itau	itau	1
+27915	986454205601853440	itau	2018-04-18 03:59:44	Lais Arantes	oi, boa noite! será que tem como depositar 5 milhões na minha conta? pode ser no 5 dia últil, eu espero. https://t.co/vfoHxF7R6r	0.0	1.0		154.0	324.0	itau		0
+27918	986453571414708225	itau	2018-04-18 03:57:13	Natalia C da Silva	"@itau Olá, boa noite!
+
+Primeiramente gostaria de informar que estou enviando estas mensagens por esta rede social tendo em vista a impossibilidade de entrar em contato formalmente pela central de atendimento disponibilizada no site do Itaú. Vamos lá..."	0.0	0.0		0.0	20.0	itau	itau	1
+27921	986452645006233601	itau	2018-04-18 03:53:32	Gidalto Filho	@itau , responda a DM!	0.0	0.0		237.0	238.0	itau	itau	1
+27931	986450823633915911	itau	2018-04-18 03:46:18	Bianca	adoro quando decido pagar minhas contas e o app 5 letras do @itau morre https://t.co/4G7LwFDRSP	0.0	1.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	3729.0	706.0	itau	itau	1
+27936	986450178285670400	itau	2018-04-18 03:43:44	Celio Andrade	RT @arantesLais: to precisando de mil reais no cartão do itau, não no do carrefour #MasterChefBR	1.0	0.0		6219.0	6854.0	itau	aranteslais	1
+27937	986450123663269890	itau	2018-04-18 03:43:31	lu ?	Incrível como eu recebi uma ótima atenção em rede social e pessoalmente fui tratada como qualquer uma https://t.co/IjicDVYqOQ	0.0	0.0		1111.0	468.0	itau		0
+27942	986449115113541633	itau	2018-04-18 03:39:31	Lais Arantes	to precisando de mil reais no cartão do itau, não no do carrefour #MasterChefBR	1.0	1.0		154.0	324.0	itau		0
+27943	986448845528846336	itau	2018-04-18 03:38:26	Menino.bad2	RT @gpmarcosgoiano: Garoto de Programa / Acompanhante / Ator pornô . Sou de SP e estou em Curta Temporada no RJ. Com local na R Sousa Lima…	658.0	0.0		33.0	376.0	itau	gpmarcosgoiano	1
+27946	986448607913168896	itau	2018-04-18 03:37:30	?	Que tecnología você gostaria que fosse possível a dia de hoje? — A que tira minha conta do Itaú do negativo https://t.co/B27fkbFtMq	0.0	1.0		1077.0	574.0	itau		0
+27957	986446686024359936	itau	2018-04-18 03:29:51	Chata, chatinha	Pior coisa é lá no trabalho não aceitar banco do Brasil. Vou voltar pro Bradesco ou vou abrir uma conta no Itaú pq depender da Caixa econômica é o erro ?	0.0	0.0		275.0	97.0	itau		0
+27961	986445939312349184	itau	2018-04-18 03:26:53	Hera1933	RT @Politica_Santos: Presidentes do Bradesco e Itau, combinados com Aécio, pressionaram Temer para trocar a chefia da PF e segurar a Lava J…	313.0	0.0		393.0	375.0	itau	politica_santos	1
+27962	986445367012134913	itau	2018-04-18 03:24:37	Társis Salvatore	@RAgapto @marcelonaranjo Se eu fosse a cobra metia um processo no Itaú.	1.0	31.0		663.0	620.0	itau	ragapto marcelonaranjo	2
+27965	986444917126979584	itau	2018-04-18 03:22:50	paulo ?	QUE ÓDIO DO ITAÚ, PAGUEI A FATURA COM 2 DIAS DE ANTECEDÊNCIA, E ESSA PORRA TÁ MOSTRANDO QUE NÃO PAGUEI E TO NEGATIVO NA CONTA https://t.co/eE5UorbABX	0.0	0.0		589.0	300.0	itau		0
+27967	986444797186539521	itau	2018-04-18 03:22:21	MARCIO ALELUIA	Banco Itaú abre vagas de emprego https://t.co/PnGyOqr6Kf	0.0	0.0		137.0	95.0	itau		0
+27968	986444288224612352	itau	2018-04-18 03:20:20	wonderland's rabbit	nunca dá certo digitar o código de barras de boletos nos caixas do itaú.. --'	0.0	0.0		177.0	362.0	itau		0
+27969	986444270415634433	itau	2018-04-18 03:20:15	Marcelo Graciolli	@itau Claro. A mesma mensagem de sempre. Estamos melhorando o nosso serviço, pra pior #itau #fail https://t.co/EcHoFQBfvG	0.0	0.0		3107.0	245.0	itau	itau	1
+27970	986444018660896768	itau	2018-04-18 03:19:15	Hamilton Vera	RT @jczucco: Instale o plugin para acessar o banco Itaú e de quebra limite a sua conexão de upload de rede em 5 megabits  #FAIL https://t.c…	2.0	0.0		130.0	143.0	itau	jczucco	1
+27972	986443544872267778	itau	2018-04-18 03:17:22	Walter Lacerda	"RT @c_wolff: Itaú pagou com um UAU o que devia de imposto?
+Ah, não, foi anistiado... UAU https://t.co/XiKEDrRhES"	3.0	0.0		4590.0	4853.0	itau	c_wolff	1
+27979	986441922523881472	itau	2018-04-18 03:10:56	????????	@itau Certo. Irei desconsiderar.	0.0	0.0		13.0	100.0	itau	itau	1
+27986	986440763516116992	itau	2018-04-18 03:06:19	Eu sou Lula Carlosplcbn	Pilantra! @STF_oficial este safado livrou o banco Itaú de pagar mais r$30mi do PIS. Ele era advogado do Itaú. Agora o escritório vrsta com seu filho. Não é @luisnassif ? https://t.co/8bppkc6rab	0.0	0.0		53.0	243.0	itau	stf_oficial luisnassif	2
+27987	986440713402503168	itau	2018-04-18 03:06:07	Nori	@itau Já enviei.	0.0	0.0		43.0	155.0	itau	itau	1
+27991	986440270391795712	itau	2018-04-18 03:04:22	luiz antonio marinho	BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC https://t.co/uZHRKJT590	0.0	0.0		1890.0	2133.0	itau		0
+28001	986437693537226753	itau	2018-04-18 02:54:07	Edgar Lima	RT @Videversus: Itaú-Unibanco, Bradesco, Banco do Brasil e Caixa Econômica Federal concentram 78,5% do… https://t.co/r9dh75YE3e	1.0	0.0		64.0	124.0	itau	videversus	1
+28003	986437289160138752	itau	2018-04-18 02:52:31	Jeni	além de ser único, exclusivamente pra ti, que nem banco Itaú, feito pra você	0.0	0.0		2711.0	4290.0	itau		0
+28005	986436971038994432	itau	2018-04-18 02:51:15	Sérgio de Pinho	BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC #economia https://t.co/V8ynCtUDxC via @JornaldoBrasil	0.0	0.0		322.0	437.0	itau	jornaldobrasil	1
+28010	986435904293261312	itau	2018-04-18 02:47:01	Jonas Almeida	Eu vou responder isso pras ligações da empresa que representa o @itau https://t.co/Y8ghfDrhfU	0.0	0.0		2029.0	970.0	itau	itau	1
+28011	986435712684904454	itau	2018-04-18 02:46:15	Alice	Até os atendentes do Itaú respondem mais rápido que certos @	0.0	0.0		167.0	274.0	itau		0
+28012	986435129294905345	itau	2018-04-18 02:43:56	Alice	Olha, eu não sei quem são as pessoas que conversam comigo pelo chat de atendimento do Itaú, só sei que eu amo todas elas	0.0	0.0		167.0	274.0	itau		0
+28016	986434782975414272	itau	2018-04-18 02:42:33	Jonas Almeida	O @itau simplemente IGNORA que uma empresa que REPRESENTA o banco tenha esse tipo de postura, eu não sou cliente dessa instituição mas isso me afasta totalmente da possibilidade de um dia ser, é uma sacanagem sem tamanho.	0.0	0.0		2029.0	970.0	itau	itau	1
+28020	986434538762113024	itau	2018-04-18 02:41:35	Calango Voyeur	"RT @NicoleFragosoo: Rifa Da Nick 2018
+Prêmio ? 
+1h30 comigo + local pago ??
+
+Peça a sua por WhatsApp 
+11-951080585
+
+Pagamento por depósito…"	61.0	0.0		98.0	555.0	itau	nicolefragosoo	1
+28021	986434452791414784	itau	2018-04-18 02:41:15	goddess	@itau de mim tu não roubaras	0.0	0.0		440.0	568.0	itau	itau	1
+28024	986433912967696384	itau	2018-04-18 02:39:06	Jonas Almeida	"Momento reclamação que ninguém se importa mas é necessário:
+
+É inadmissível uma empresa do tamanho do @itau vender seus contratos pra terceirizadas tão desrespeitosas como a RB Soluções, os caras simplesmente ligam o DIA INTEIRO sendo que eu nem cliente do banco sou."	0.0	0.0		2029.0	970.0	itau	itau	1
+28026	986433530963070976	itau	2018-04-18 02:37:35	Math ;(	"gata eu n sou o banco itau mas eu fui feito pra vc 
+Kitau vc me passa o zap"	0.0	1.0		98.0	61.0	itau		0
+28037	986430870096678912	itau	2018-04-18 02:27:01	Vitor Vieira	Itaú-Unibanco, Bradesco, Banco do Brasil e Caixa Econômica Federal concentram 78,5% do… https://t.co/r9dh75YE3e	1.0	3.0		5742.0	1902.0	itau		0
+28040	986430175612162048	itau	2018-04-18 02:24:15	rosa maria ferreira	"RT @EnioMainardi: Do que vive, a Tartaruga da Floresta? 
+Do Banco Itaú e do  fundo partidário, acho. 
+E ela só trabalha nas eleições, de 4…"	6.0	0.0		1607.0	1248.0	itau	eniomainardi	1
+28044	986429403428261893	itau	2018-04-18 02:21:11	Bruno Nery	@itau É possível ajudar ou está difícil??	0.0	0.0		340.0	627.0	itau	itau	1
+28075	986424838247141376	itau	2018-04-18 02:03:02	The Beauty ?	O @itau acabou com o resto da paciência que eu tinha!! Nenhuma dessas merdas de aplicativos funcionam	0.0	0.0		273.0	255.0	itau	itau	1
+28077	986424695452037121	itau	2018-04-18 02:02:28	Carol Dias	@Tefopassarelli @itau no caso não, no caso to bem pobre mesmo	0.0	0.0		168.0	562.0	itau	tefopassarelli itau	2
+28078	986424485854183424	itau	2018-04-18 02:01:38	Daniel Tabatinga	Em 2015 eles falaram que era de R$184 milhões sendo q o Itaú BBA falou q era de R$262 milhões . https://t.co/2eKFTLH14u	0.0	1.0		4130.0	2498.0	itau		0
+28080	986423629826097152	itau	2018-04-18 01:58:14	Pedro Luiz T M Vaz	BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC #economia https://t.co/uEWDOVWiOp via @JornaldoBrasil	0.0	0.0		9.0	55.0	itau	jornaldobrasil	1
+28082	986423539027857408	itau	2018-04-18 01:57:53	Victor Romberg	STJ perdoa Itaú em R$ 159,8 milhões #economia https://t.co/L7Z5wlfXgm via @JornaldoBrasil	0.0	0.0		32.0	159.0	itau	jornaldobrasil	1
+28084	986423004719706112	itau	2018-04-18 01:55:45	ja1	Mermao que vibe massa andar na bike do Itaú no centro da capitá uma horas dessas po	0.0	0.0		485.0	338.0	itau		0
+28094	986421693403942912	itau	2018-04-18 01:50:33	Hudson Almeida	"De repente falta energia na agência do Itaú de Manaus. 
+.
+Quando os eletricistas vão até à… https://t.co/slfF7o6apw"	0.0	0.0		566.0	1027.0	itau		0
+28095	986421534691676160	itau	2018-04-18 01:49:55	Antonio Nilton B. Jr	RT @inacioarruda: Xadrez de como, com jeitinho, Barroso beneficiou o Itau https://t.co/dmFMm4ncVg	1.0	0.0		614.0	888.0	itau	inacioarruda	1
+28098	986421410330566656	itau	2018-04-18 01:49:25	Nicole Fragoso	"RT @NicoleFragosoo: Meu Ted 2 está me ajudando com a Rifa rs 
+Prêmio ? 1h30 comigo ( com local por minha conta ) 
+
+Todos são bem vindos par…"	2.0	0.0		39099.0	75.0	itau	nicolefragosoo	1
+28110	986420363046326272	itau	2018-04-18 01:45:16	Love Dilma	@zeloureironeto @OvelhaVermelha7 E  agora sócio dos Banqueiros donos do  Itaú	0.0	0.0		1294.0	758.0	itau	zeloureironeto ovelhavermelha7	2
+28112	986420185400795136	itau	2018-04-18 01:44:33	Wolff Lula da Silva ?	"Itaú pagou com um UAU o que devia de imposto?
+Ah, não, foi anistiado... UAU https://t.co/XiKEDrRhES"	3.0	4.0		2367.0	4998.0	itau		0
+28113	986420093373558784	itau	2018-04-18 01:44:11	Guerreiro Imbatível	"#PaiDosIdiotasÚteis @LulaPeloBrasil, o ""pai dos pobres"", tinha mais dinheiro em conta corrente que o dono do Itaú. #ChefãoDoForoDeSP demônio comunista criador do proj. ""Pátria Grande"" para Am. Latina e Caribe, que hoje segue c/ o comunista @MichelTemer  https://t.co/G3MXs8T92A"	10.0	20.0		13463.0	11115.0	itau	lulapelobrasil, micheltemer	2
+28116	986419988507578368	itau	2018-04-18 01:43:46	#AgitoSP	"Cia dos Pés estreia ""Pequenos Olhos"" no Itaú Cultural; espetáculo trata das descobertas, limites e imaginação das crianças https://t.co/mgdtchZGi9"	0.0	3.0		17635.0	957.0	itau		0
+28125	986418425428836352	itau	2018-04-18 01:37:34	zikinha BDL	slc eu e o @itau ta nas ideia mil grau aq na dm, pdpa q ele é fmza	0.0	2.0		450.0	334.0	itau	itau	1
+28130	986417371920392192	itau	2018-04-18 01:33:22	Inácio Arruda	Xadrez de como, com jeitinho, Barroso beneficiou o Itau https://t.co/dmFMm4ncVg	1.0	0.0		18099.0	450.0	itau		0
+28134	986416044276412417	itau	2018-04-18 01:28:06	Bruno de Resende	@cadeadx @diegobarlo @umpassarimazul @LeilaRB deixa para lá é o banco itau q diz que é 30h	0.0	0.0		412.0	510.0	itau	cadeadx diegobarlo umpassarimazul leilarb	4
+28135	986415758392680451	itau	2018-04-18 01:26:58	bubuzinha Lula	@itau Sonegar contando com a parceria de um governo irresponsável e golpista então, bom demais da conta.	0.0	0.0		3501.0	2032.0	itau	itau	1
+28144	986414809557209097	itau	2018-04-18 01:23:11	Glayson Knowles	@mliviavieira @NayAtaide Eu tbm do banco Itaú kkkk	0.0	1.0		198.0	232.0	itau	mliviavieira nayataide	2
+28148	986414472368738304	itau	2018-04-18 01:21:51	Leo	@closenagomez @itau Jamais esquecerei minhas raízes	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='5aaf2499d3a86bb2', url='https://api.twitter.com/1.1/geo/id/5aaf2499d3a86bb2.json', place_type='city', name='Cotia', full_name='Cotia, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-47.084701, -23.804034], [-46.809198, -23.804034], [-46.809198, -23.563827], [-47.084701, -23.563827]]]), attributes={})	3529.0	483.0	itau	closenagomez itau	2
+28149	986414430639607809	itau	2018-04-18 01:21:41	Petista Garboso	@GABRlELPlNHElRO Banco Itaú curtiu ?	0.0	0.0		143.0	217.0	itau	gabrlelplnhelro	1
+28150	986414337517596672	itau	2018-04-18 01:21:19	Agência Notícia	Relatório do Banco Central mostra que Banco do Brasil, Caixa, Itaú e Bradesco juntos detém mais de três quartos do crédito no país.- https://t.co/74M4qbsJ3R https://t.co/74M4qbsJ3R	0.0	0.0		3934.0	335.0	itau		0
+28151	986414083485458433	itau	2018-04-18 01:20:18	Júlio Tubarão	@augustosnunes Gugu, não te vi reclamando do perdão da multa do @itau, da isenção de 1 tri pras petroleiras gringas, do rombo do Meirelles nas contas públicas...teu negócio é só com imóveis?	0.0	1.0		1719.0	1514.0	itau	augustosnunes itau	2
+28153	986413779067064320	itau	2018-04-18 01:19:06	Marcelo Graciolli	@itau Pelo jeito ñ né. Estou tentando acessar minha conta desde o momento que publiquei esta mensagem e sempre a mesma mensagem de erro. Pago por uma tarifa para usar bank line que esta sempre fora do ar, para um gerente que ñ responde, p emitir boletos por um sistema péssimo... :(	0.0	0.0		3107.0	245.0	itau	itau	1
+28156	986413287968567296	itau	2018-04-18 01:17:09	Lucas Flávio	Hoje eu esqueci a carteira em casa e paguei tudo com o Apple Pay. Parabéns aos envolvidos! @Apple + @itau	0.0	0.0		588.0	561.0	itau	apple itau	2
+28159	986413066798665739	itau	2018-04-18 01:16:16	Clara	@leoziuss @itau Seja educado com o CRM, ele não tem culpa	0.0	0.0		329.0	222.0	itau	leoziuss itau	2
+28161	986412786694737920	itau	2018-04-18 01:15:09	Amanda R ?	@cahmontemor caso ela ainda não tenha feita, fala pra se inscrever no estágio do itau. deve estar aberta até inscrição de estágio de férias dele (geralmente a pessoa estende estágio depois e pagam bem)	0.0	0.0		958.0	563.0	itau	cahmontemor	1
+28170	986411163146735617	itau	2018-04-18 01:08:42	Wallace	@theffcaroline Moscou não morreu, ele volta na segunda temporada com a mulher dele, ai o Denver e a Mônica se casam e ele vai no casamento com a mãe do Denver, ai o professor vai querer roubar o Itaú e a gcm mata ele	0.0	0.0		490.0	146.0	itau	theffcaroline	1
+28176	986410635478159362	itau	2018-04-18 01:06:36	Irene LULA Blini	RT @Omar_r47m4ch1n3: @FatosNacionais Especulação da subespeculação e Marielle e Anderson e 30 dias sem respostas e Lula preso e sem respost…	5.0	0.0		423.0	70.0	itau	omar_r47m4ch1n3: fatosnacionais	2
+28178	986410479705784322	itau	2018-04-18 01:05:59	Paulo Rogerio	Sharks ? Brasil ??.!! em CA Itaú Unibanco ITM https://t.co/yVg9LdeGxD	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	145.0	835.0	itau		0
+28179	986410324420190208	itau	2018-04-18 01:05:22	Fernando	RT @denisebuenoseg: Itaú faz concorrência e fecha com três seguradoras para venda de dental, prestamista e vida - Sonho Seguro https://t.co…	1.0	0.0		316.0	1383.0	itau	denisebuenoseg	1
+28188	986409454169214976	itau	2018-04-18 01:01:55	Denise Bueno	Itaú faz concorrência e fecha com três seguradoras para venda de dental, prestamista e vida - Sonho Seguro https://t.co/kXulWMl831	1.0	2.0		2852.0	198.0	itau		0
+28194	986408977150996481	itau	2018-04-18 01:00:01	?F	alo @itau @Bradesco @BancodoBrasil, quero abrir uma conta poupança e pegar um cartao de credito tem como?	0.0	0.0		432.0	75.0	itau	itau bradesco bancodobrasil	3
+28196	986408706324738049	itau	2018-04-18 00:58:56	Paulo Rogerio	Gravação do shark tank brasil 2018 .! em CA Itaú Unibanco ITM https://t.co/rddVjxUEKA	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	145.0	835.0	itau		0
+28198	986408601534246913	itau	2018-04-18 00:58:31	Marcos de folga pode  !!	RT @emmibundanao: BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC - ISTOÉ Independente https://t.co/Vc3wSZROH9	1.0	0.0		4191.0	4633.0	itau	emmibundanao	1
+28200	986408109395636224	itau	2018-04-18 00:56:34	VAGAS.com.br	Vagas p/ AGENTE COMERCIAL - PCD - Itaú Unibanco - Curitiba/PR - https://t.co/Z3oFK4uevD	0.0	1.0		18839.0	40.0	itau		0
+28201	986407750191198210	itau	2018-04-18 00:55:08	Silvio Santos	"Lula, o xilindró de Curitiba deve ter o patrocínio do Itaú 
+
+Feito pra você!"	0.0	5.0		6929.0	777.0	itau		0
+28202	986407495995461632	itau	2018-04-18 00:54:08	Guilherme Siqueira	Só acho que o @itau me deve uma grana e um iPhone ? https://t.co/Ij1VIZ7Pdz	0.0	0.0		16.0	62.0	itau	itau	1
+28204	986407353384947712	itau	2018-04-18 00:53:34	Carioca TFC	EU NAO AGUENTO MAIS ESSA PROPAGANDA https://t.co/XaAT8NW6Vy	0.0	0.0		697.0	633.0	itau		0
+28206	986407165584953344	itau	2018-04-18 00:52:49	Flavio Faccion	"@itau Boa noite! 
+Alguma novidade sobre o Samsung Pay?"	0.0	0.0		24.0	1.0	itau	itau	1
+28207	986407130315010049	itau	2018-04-18 00:52:41	Paulo Henrique Meyer	@itau Agradeço, mas não...	0.0	0.0		161.0	356.0	itau	itau	1
+28213	986406535470383114	itau	2018-04-18 00:50:19	.. e eu só comento	BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC - ISTOÉ Independente https://t.co/Vc3wSZROH9	1.0	0.0		234.0	163.0	itau		0
+28216	986406216615198720	itau	2018-04-18 00:49:03	Francisco Lula d´Avila	#LulaLivre e onde está a verdade no salvamento do ITAÚ, BRADESCO, GERDAU, DEPUTADOS e todos os SONEGADORES SALVO PELO GOLPISTA. https://t.co/KJgAjiu4ny	0.0	0.0		40.0	59.0	itau		0
+28218	986405451834253312	itau	2018-04-18 00:46:00	Letícia	qual vc prefere Itaú ou bradesco? — Itaú https://t.co/rdlSDMvHsL	0.0	0.0		967.0	812.0	itau		0
+28219	986405307613155328	itau	2018-04-18 00:45:26	mario -LULA DA SILVA	Recordar é viver: apoio de Marina Silva a Aécio Neves em 2014 https://t.co/9ORZAU5usZ é a ética da marinatura,globo,itau/moro.	0.0	0.0		4869.0	4011.0	itau		0
+28221	986405100787650560	itau	2018-04-18 00:44:37	Victor Aziago	? em Espaço Itaú de Cinema https://t.co/TQQzAx1ed8	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	50.0	238.0	itau		0
+28222	986405007363854336	itau	2018-04-18 00:44:14	cobra cega de bengalas	De repente falta energia na agência do Itaú de Manaus. Quando os eletricistas vão até à central de energia, descobrem a causa do apagão. ? https://t.co/vSbZwyQmdD	46.0	75.0		754.0	1891.0	itau		0
+28223	986404938162102273	itau	2018-04-18 00:43:58	Flavio Faccion	"@itau Apple pay funcionado né? E quanto ao Samsung pay? Sou cliente há anos! E até agora nada :(
+Estou usando um cartão de crédito de outro banco para poder utilizar o pagamento por aproximação.
+Itaú digital???? Sei não hein...."	1.0	0.0		24.0	1.0	itau	itau	1
+28225	986403871877746688	itau	2018-04-18 00:39:44	Leo	@itau vocês são uns lixos para cancelar serviços, como pode?	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='5aaf2499d3a86bb2', url='https://api.twitter.com/1.1/geo/id/5aaf2499d3a86bb2.json', place_type='city', name='Cotia', full_name='Cotia, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-47.084701, -23.804034], [-46.809198, -23.804034], [-46.809198, -23.563827], [-47.084701, -23.563827]]]), attributes={})	3529.0	483.0	itau	itau	1
+28226	986403837689978881	itau	2018-04-18 00:39:36	Reginaldo Rodrigues	@itau não consigo cadastrar meu itaucard no Apple Pay, como resolvo isso? Pede pra eu entrar em contato com a operadora do cartão! Ajude aí por favor!	0.0	0.0		77.0	142.0	itau	itau	1
+28229	986402989605875713	itau	2018-04-18 00:36:13	Júlia Rei$	@Lais45480952 igual Itaú, feito pra vc	0.0	0.0		223.0	276.0	itau	lais45480952	1
+28231	986402817769426945	itau	2018-04-18 00:35:32	Fabricio	Android é o celular mais usado no mundo. Mas o Itaú lança o Apple pay. https://t.co/L97AVw7vy2	1.0	0.0		61.0	253.0	itau		0
+28236	986402182995087360	itau	2018-04-18 00:33:01	Jean	@vittor_1903 @itau Não quis trocar um 5	0.0	0.0		365.0	419.0	itau	vittor_1903 itau	2
+28237	986402136694181888	itau	2018-04-18 00:32:50	Fiel Itaú de Minas	essas pessoas acabaram de visualizar seu perfil https://t.co/v8xBG4e2vQ	0.0	0.0		210.0	402.0	itau		0
+28238	986402004829458432	itau	2018-04-18 00:32:19	Gulima	@folha_poder Do lado do Itaú..	0.0	0.0		12.0	118.0	itau	folha_poder	1
+28239	986401999909478400	itau	2018-04-18 00:32:17	?	@alessandrojbr @Bancointer E o inverso? Itau para Inter?	0.0	0.0		103629.0	65.0	itau	alessandrojbr bancointer	2
+28241	986401622535401473	itau	2018-04-18 00:30:47	Mayra Ribeiro	1 ano de itau hoje e ele marca tantas lembranças. AAAAAA quanta mudança nesse ano que passou	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	98.0	222.0	itau		0
+28249	986400365670289408	itau	2018-04-18 00:25:48	Vitor	@JeannAlexx @itau Vamo pegar p exemplo	0.0	1.0		295.0	214.0	itau	jeannalexx itau	2
+28250	986400251295817728	itau	2018-04-18 00:25:20	LORD FANNY ?™	@juju_lyana Até o fim das minhas férias que é em maio eu vou transferir essa poupança para o Itau, banco onde tenho minha conta corrente e raramente me dá problemas. Além de ser MODERNO.	0.0	1.0		684.0	251.0	itau	juju_lyana	1
+28254	986399459935387649	itau	2018-04-18 00:22:12	Alessandro Ribeiro	@GordoGeek @Bancointer GG, fiz duas teds pro Itaú na semana passada e não demorou nem 2 minutos.	0.0	0.0		93.0	522.0	itau	gordogeek bancointer	2
+28256	986399236974620672	itau	2018-04-18 00:21:19	Sanderlust	@kriox @itau Não faço ideia ??	0.0	1.0		545.0	800.0	itau	kriox itau	2
+28258	986399115834810368	itau	2018-04-18 00:20:50	Marcelo al-Khwarizmi	"@Sanderlust @itau Tadinha da jibóia...
+
+Ou é sucuri?"	0.0	0.0		259.0	519.0	itau	sanderlust itau	2
+28259	986399001934221312	itau	2018-04-18 00:20:23	Felipe	ruim mesmo é que eu quebrei meu cartão e não dá para sacar dinheiro no 24 h, só no itaú pela biometria	0.0	0.0		3373.0	3798.0	itau		0
+28261	986398778654588929	itau	2018-04-18 00:19:29	José B. - Tranceman	"Oi @itau, caguei pra Apple Pay.
+Cade minha autenticação por digital no app?
+Só lembrando que o @Bradesco já tem faz mais de ano..."	0.0	0.0		293.0	395.0	itau	itau, bradesco	2
+28262	986398724623667200	itau	2018-04-18 00:19:17	Mephisto Santos?	RT @omagnificu: nao tem preço ;) itau o banco do seu cu	1.0	0.0		4731.0	4234.0	itau	omagnificu	1
+28263	986398226738802689	itau	2018-04-18 00:17:18	Giovanni	Viu @itau , em vez de fazer propagandinha insossa ufunizando a seleção. Esse cabra aqui põe a cara pra bater e discute temas de GRANDE interesse para todos nós. Isso também é ser socialmente consciente. https://t.co/6ORSUHewoE	0.0	1.0		211.0	681.0	itau	itau	1
+28264	986397916431618049	itau	2018-04-18 00:16:04	andragon	nao tem preço ;) itau o banco do seu cu	1.0	1.0		288.0	182.0	itau		0
+28266	986397750098104322	itau	2018-04-18 00:15:24	Akira	@itau Não tenho conta no Itau ? mas eu achei muito top agora, parabéns pra vocês ?	0.0	0.0		1932.0	163.0	itau	itau	1
+28268	986397713569931265	itau	2018-04-18 00:15:15	letísta ?	"RT @ChogiwaStore: (?) BLOCK B - MONTAGE DVD 
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 14/05
+• Pagamento por depósito/t…"	1.0	0.0		2144.0	2713.0	itau	chogiwastore	1
+28270	986397451031543810	itau	2018-04-18 00:14:13	letísta ?	"RT @ChogiwaStore: (?) BIGBANG - 2017 CONCERT LAST DANCE IN SEOUL DVD
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+•…"	1.0	0.0		2144.0	2713.0	itau	chogiwastore	1
+28274	986396714696404993	itau	2018-04-18 00:11:17	VAGAS.com.br	Vagas p/ ANALISTA SISTEMAS SR - Itaú Unibanco - São Paulo/SP - https://t.co/YugIY8RZOy	0.0	0.0		10026.0	41.0	itau		0
+28275	986396549625282560	itau	2018-04-18 00:10:38	Thales Tripanon	@rhuan_kilder @Snapchat Ele n é o Itaú	0.0	1.0		249.0	179.0	itau	rhuan_kilder snapchat	2
+28279	986395706771628032	itau	2018-04-18 00:07:17	Ari Brasil	"@Karlmarxbr_Br Marcas Malignas:
+nestle itaú havan riachuelo habibs mc donald shell tv cancer... record.. folha de são paulo estadão....uber...NETFLIX...Sky"	0.0	0.0		235.0	258.0	itau	karlmarxbr_br	1
+28281	986395260623446016	itau	2018-04-18 00:05:31	Chogiwa Store	"(?) BLOCK B - MONTAGE DVD 
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 14/05
+• Pagamento por depósito/transferência: caixa, itaú, sicoob, banco do brasil, bradesco, santander ou paypal
+• Orçamentos pela DM válido por 3 dias corridos https://t.co/YNFNvPPjmq"	1.0	2.0		2921.0	91.0	itau		0
+28282	986394954074411013	itau	2018-04-18 00:04:18	thalita	itaú só me irrita	0.0	0.0		389.0	343.0	itau		0
+28283	986394889297584128	itau	2018-04-18 00:04:02	Sanderlust	Alô @itau , socorro! ?? https://t.co/sI7LFPkCAr	0.0	0.0		545.0	800.0	itau	itau	1
+28284	986394874198069249	itau	2018-04-18 00:03:58	IM BALDING	@itau Oq eu tenho que fazer pro dinheiro voltar	0.0	0.0		3195.0	764.0	itau	itau	1
+28285	986394817323298817	itau	2018-04-18 00:03:45	Jean	@vittor_1903 @itau Me cachorreou na dm	0.0	1.0		365.0	419.0	itau	vittor_1903 itau	2
+28289	986393787231588353	itau	2018-04-17 23:59:39	Chogiwa Store	"(?) BIGBANG - 2017 CONCERT LAST DANCE IN SEOUL DVD
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pagamento por depósito/transferência: caixa, itaú, sicoob, banco do brasil, bradesco, santander ou paypal
+• Orçamentos pela DM válido por 3 dias corridos https://t.co/Byl4xy4Sxl"	1.0	4.0		2921.0	91.0	itau		0
+28290	986393703022555136	itau	2018-04-17 23:59:19	Rai Aquino	@joaoamoedonovo O q vc fez pra mudar isso qd fez parte do alto escalao do Itau-Unibanco???	0.0	0.0		142.0	99.0	itau	joaoamoedonovo	1
+28291	986393459681611778	itau	2018-04-17 23:58:21	Bruno Marino	I'm at Itaú - @itau in Cachoeirinha, Rio Grande do Sul https://t.co/UdUnaDPsCg	0.0	0.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='ffbca1b16b50edbb', url='https://api.twitter.com/1.1/geo/id/ffbca1b16b50edbb.json', place_type='city', name='Cachoeirinha', full_name='Cachoeirinha, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-51.1273815, -29.9723825], [-51.0630193, -29.9723825], [-51.0630193, -29.8651911], [-51.1273815, -29.8651911]]]), attributes={})	1576.0	1219.0	itau	itau	1
+28292	986393310230208513	itau	2018-04-17 23:57:46	? Cisco Zappa ?	"O roteiro do Jucá segue.
+O 1° tucano a ser comido tornou-se um cachorro morto, perdeu a serventia.
+
+E os grandes golpistas que violentaram a democracia brasileira, deixando-a amordaçada no quarto escuro do estado de exceção, seguem com um Itaú de vantagens e plim-plim."	0.0	1.0		3786.0	1285.0	itau		0
+28293	986393218332930049	itau	2018-04-17 23:57:24	Chogiwa Store	"(?) SNUPER - BLOSSOM
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento dia 25 de abril
+• Pagamento por depósito/transferência: caixa, itaú, sicoob, banco do brasil, bradesco, santander ou paypal
+• Orçamentos pela DM válido por 3 dias corridos https://t.co/09sQnujPoo"	0.0	1.0		2921.0	91.0	itau		0
+28294	986393062355107841	itau	2018-04-17 23:56:47	Paulo Henrique Meyer	@raphaelstfl Dó de ter morrido num Itaú. Nem o capeta merece o Itaú.	0.0	0.0		161.0	356.0	itau	raphaelstfl	1
+28296	986392514197426176	itau	2018-04-17 23:54:36	laura	@lucasbcmo @itau kkkkkkkkkkkkkkkkreaaaal ia até dar rt	0.0	0.0		435.0	400.0	itau	lucasbcmo itau	2
+28301	986391618335977473	itau	2018-04-17 23:51:02	Thomaz	"RT @vitoriatunes: Vamo ajudar gentee, conta:            Itaú 
+Ag 6243
+Cc 36901-1
+CPF 070.289.649-73
+Eduarda Zacchi Stocco https://t.co/o1MC…"	3.0	0.0		816.0	441.0	itau	vitoriatunes	1
+28310	986388823704854528	itau	2018-04-17 23:39:56	mafezinha	"@Novaisalexiia armazém do chocolate no aterrado, do ladislau itaú 
+
+biscoito recheado 1 real cada e 1,70 NO FANDANGOS TAVA MTO BARATO N PODIA PERDER A OPORTUNIDADE"	0.0	1.0		1478.0	1427.0	itau	novaisalexiia	1
+28311	986388642187890689	itau	2018-04-17 23:39:13	Humberto R	"?Lula, o ""pai dos pobres"", tinha mais dinheiro em conta corrente que o dono do Itaú. - Noticias Brasil Online https://t.co/QTzOTbPsJK"	78.0	103.0		17172.0	9843.0	itau		0
+28314	986388373442002946	itau	2018-04-17 23:38:09	Leonardo Nunes	Não recomendo o atendimento do @itau Uniclass pelo app pra absolutamente ninguém. Só enrolam, enrolam e pioram a situação.	0.0	1.0		608.0	2343.0	itau	itau	1
+28318	986386882429939712	itau	2018-04-17 23:32:13	VITOR TAVARES	@itau Olha já tentei em Posto Ipiranga pinpad Stone, uma máquina da getnet e outra da própria rede card é uma moderninha que tem a função de aproximação.	0.0	0.0		145.0	375.0	itau	itau	1
+28319	986386713084907521	itau	2018-04-17 23:31:33	VAGAS.com.br	Vagas p/ ANALISTA SUPORTE TI PL - Itaú Unibanco - São Paulo/SP - https://t.co/4kwrFBVvBu	0.0	0.0		10026.0	41.0	itau		0
+28320	986386678502879232	itau	2018-04-17 23:31:24	IM BALDING	"hello everyone karma got it's kiss for me 
+meu celular parou de fazer e receber chamada a internet não conecta
+ontem ele descarregou na rua 
+eu tava sozinha
+sem endereço de casa
+numa cidade estranha
+e agr o itau cobrou minha fatura 2 vzs eu tô sem dinheiro e devendo https://t.co/vivBYqO8cl"	0.0	3.0		3195.0	764.0	itau		0
+28321	986386376630390785	itau	2018-04-17 23:30:13	SXNTG	Fiz um monte de coisa hoje; peguei a dispensa do exército, agendei minha 1a via do título de eleitor, desbloqueei meu cartão novo, atualizei a conta do Itaú, xeroquei meus documentos que precisava, peguei meu certificado de um curso que terminei há TRÊS ANOS	0.0	0.0		59.0	72.0	itau		0
+28326	986385156427669504	itau	2018-04-17 23:25:22	? Simone Aline ?	Aí você recebe um dinheiro mais alto de um trabalho, e o @itau  trava o dinheiro, e eu tenho que justificar pq recebi mais??? Oi??? E eu não posso mexer no MEU dinheiro. AH vai...	0.0	0.0		16812.0	4882.0	itau	itau	1
+28329	986384408767852550	itau	2018-04-17 23:22:23	? Simone Aline ?	"Aí, marido quis abrir a conta PJ no @itau . E desde Novembro (quando abri) até agora, NADA eles conseguem resolver pela internet ou telefone!!! Já fui na agência umas 12 vezes, só nesses primeiros meses! E ele é ""digital"", hein??? Imagina se não fosse!"	0.0	0.0		16812.0	4882.0	itau	itau	1
+28331	986383769497145349	itau	2018-04-17 23:19:51	BARÃO DE CEARA MIRIM	BARÃO DE CEARÁ-MIRIM: NOTÍCIAS, TURISMO E CULTURA: ITAÚ-RN: AÇUDE PASSAGEM PRÓXIMO DA SANGRIA https://t.co/KKpN4632We	0.0	0.0		818.0	1940.0	itau		0
+28333	986383264490377216	itau	2018-04-17 23:17:51	Fabricio Talberg	Porra @itau , agora são 20:20Hs e consigo pagar o total da fatura, mas não consigo fazer o parcelamento, SACANAGEM!!!	0.0	0.0		24.0	116.0	itau	itau	1
+28338	986382478364610561	itau	2018-04-17 23:14:43	naclara-?	"RT @ChogiwaStore: (?) EXO - OFFICIAL UNIVERSE BINDER NOTE 
+• Frete de 15-45 dias úteis
+• Pagamento por depósito/transferência: caixa, itaú,…"	4.0	0.0		2100.0	2615.0	itau	chogiwastore	1
+28341	986382233488551937	itau	2018-04-17 23:13:45	naclara-?	"RT @ChogiwaStore: (??) TPOM - Sehun postcards oficiais
+ 35,00 reais os dois juntos.
+Frete por carta incluso.
+Reserva por 3 dias corridos.
+P…"	7.0	0.0		2100.0	2615.0	itau	chogiwastore	1
+28342	986381934749200384	itau	2018-04-17 23:12:33	Elizabeth Santos	@MonicaWaldvogel são 5 bancos: Bb, CEF, Bradesco, Santander e Itaú e não 4 como falou @GloboNews @SergioAguiar07 #globonewspauta	0.0	0.0		1095.0	2588.0	itau	monicawaldvogel globonews sergioaguiar07	3
+28343	986381851488083968	itau	2018-04-17 23:12:14	Karla Seabra	@itau O problema no site foi resolvido. Obrigada!	0.0	0.0		11.0	39.0	itau	itau	1
+28347	986379680948408322	itau	2018-04-17 23:03:36	Argemiro Garcia	"A moça do Itaú, oferecendo um benefício, propõe que eu pague o saldo do cartão em 3 x R$744 (R$ 2232). Consultei os lançamentos futuros e vi que, em 10 meses, pagarei o total de R$1850. Declinei da oferta ""bondosa""."	0.0	0.0		188.0	104.0	itau		0
+28348	986379546789400576	itau	2018-04-17 23:03:04	Joy	Eu não sou Itaú mas eu fui feita pra vc #askfandoms	0.0	0.0		1162.0	1602.0	itau		0
+28349	986379272259538944	itau	2018-04-17 23:01:59	leticia	Gata eu não sou Itaú mas fui feito pra você — uouuuuu https://t.co/GvOU6VlPVn	0.0	0.0		559.0	536.0	itau		0
+28350	986378823573925908	itau	2018-04-17 23:00:12	luisangelorjr|larjr	Programa de Formação Itaú Analytics https://t.co/585Ju4Nxf5	0.0	0.0		20.0	71.0	itau		0
+28352	986378763121451009	itau	2018-04-17 22:59:57	Douglas	@itau O Bradesco já tem, o banco do Brasil também e a Caixa... tem também o Santander, o Banrisul e o banco Inter.E até o banco Neon! Mas cliente Itaú não tem...	0.0	0.0		98.0	337.0	itau	itau	1
+28353	986378236828336128	itau	2018-04-17 22:57:52	Day?	Obrigada @itau . Amanhã tem mais https://t.co/6WWcfduPlo	0.0	0.0		119.0	190.0	itau	itau	1
+28355	986377649915392000	itau	2018-04-17 22:55:32	VITOR TAVARES	@itau Boa noite!	0.0	0.0		145.0	375.0	itau	itau	1
+28359	986377314211594245	itau	2018-04-17 22:54:12	Gato Limão	Será que esse époupey do Itaú vai pegar? Não vejo muita gente falando não e eles tentam implantar novos meios de pagamento desde a long time ago qdo eu era operador de call center ainda...	0.0	1.0	Place(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, id='a4b238d605105bc9', url='https://api.twitter.com/1.1/geo/id/a4b238d605105bc9.json', place_type='city', name='Itapevi', full_name='Itapevi, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EC8A00F0>, type='Polygon', coordinates=[[[-47.036721, -23.612042], [-46.9070601, -23.612042], [-46.9070601, -23.4976302], [-47.036721, -23.4976302]]]), attributes={})	655.0	299.0	itau		0

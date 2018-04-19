@@ -1,0 +1,449 @@
+﻿	query	data	usuario	conteudo	retweets	favoritos	local	seguidores	amigos
+986727817286176768	bradesco	2018-04-18 22:06:58	#TardezinhaDosCrias #SdcFantasy	lançou o casaquinho do bradesco mn kkkk https://t.co/4KzHgiPAMK	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	2969	811
+986727652420661249	bradesco	2018-04-18 22:06:19	Pri	"Faltam 3 dias !!!!!! 
+
+Espetáculo Léo e Bia  ? 
+
+21/04- Teatro Bradesco ( Belo Horizonte ) QUEM VAMOS ? 
+
+vendas: https://t.co/UPGWjayPcs https://t.co/fhgCay2xHD"	0	0		1448	70
+986727152803598336	bradesco	2018-04-18 22:04:20	Leo Matos	@Bradesco Já resolvi meu amor, obrigado ??	0	0		65	91
+986726547536138240	bradesco	2018-04-18 22:01:56	Bradesco	@sweet_lemmon Oi, você esteve em uma agência, sabe me dizer o número?	0	0		157329	4635
+986726109386608640	bradesco	2018-04-18 22:00:11	Anna Ramalho	Rafinha Bastos em Últimas Palavras, se apresenta no Teatro Bradesco Rio https://t.co/nv0TSZyzq5 https://t.co/R6kAsfHmiR	0	0		3397	1455
+986725956026068992	bradesco	2018-04-18 21:59:35	Eduarda	Apaixonei na voz da menina do SAC Bradesco que me atendeu ???	0	0		434	264
+986724626356109313	bradesco	2018-04-18 21:54:18	Rayssa	"RT @IsabelVicsf: Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Fe…"	5	0		1708	1718
+986724334793355269	bradesco	2018-04-18 21:53:08	BMI	Orgulho em apoiar a Unibes no cumprimento de sua missão social e cultural! https://t.co/qDvRpc3NDc	0	0		221	68
+986723884190912512	bradesco	2018-04-18 21:51:21	Marcos Tavares	RT @ESPNagora: Do Esporte pra Vida: no @ESPNLeague_br  desta segunda, a história de superação de James Harden, do Houston Rockets, candidat…	9	0		9	47
+986723416672784385	bradesco	2018-04-18 21:49:29	Bradesco	@_juliases Oi, você estava com problemas?	0	0		157329	4635
+986723141979463682	bradesco	2018-04-18 21:48:24	Bradesco	@Maxwell_Trem Olá, como posso ajudar?	0	0		157329	4635
+986722792799391749	bradesco	2018-04-18 21:47:00	Bradesco	@leonardolbga Oi, posso ajudar?	0	0		157329	4635
+986722785170001921	bradesco	2018-04-18 21:46:59	Alberto Neto	Adicionei um vídeo a uma playlist @YouTube https://t.co/WDJLFggR5W SUPERA rivais ITAÚ, BB, Bradesco, Caixa e Santander, como?	0	0		15	114
+986722784914104321	bradesco	2018-04-18 21:46:59	Alberto Neto	Adicionei um vídeo a uma playlist @YouTube https://t.co/c7zk33i3N7 VITÓRIA NUBANK sobre Itaú, BB, Bradesco, Caixa e Santander	0	0		15	114
+986722285431255040	bradesco	2018-04-18 21:44:59	kamicat	@Bradesco devolve meus 22 reais	0	0		376	260
+986721680671367175	bradesco	2018-04-18 21:42:35	Eduardo Souza	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		47	312
+986721612060872705	bradesco	2018-04-18 21:42:19	Rê	RT @gabeegoes: Meu objetivo de vida é participar do grupinho dos véio top que ficam sentado na frente do bradesco	1	0		1611	1275
+986721507979251717	bradesco	2018-04-18 21:41:54	Bradesco	@coebart_ Perdão não entendi. Qual o tipo de Bloqueio? Qual foi a orientação?	0	0		157329	4635
+986721197781069825	bradesco	2018-04-18 21:40:40	CHAR	Meu objetivo de vida é participar do grupinho dos véio top que ficam sentado na frente do bradesco	1	0		856	541
+986721029891518465	bradesco	2018-04-18 21:40:00	Bradesco	@brunocidadao De nada!	0	0		157329	4635
+986720895124344833	bradesco	2018-04-18 21:39:28	Lucas Leal ?	Eu truta eu tô louco eu tô vendo miragem um Bradesco bem em frente a favela é viajem	0	0		644	786
+986720715759128576	bradesco	2018-04-18 21:38:45	reis	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		506	480
+986720584670285825	bradesco	2018-04-18 21:38:14	Mônica	A propaganda do Bradesco com Rodrigo Santoro fora do Brasil fala muito, né? ?	0	0		140	48
+986720456085590016	bradesco	2018-04-18 21:37:43	d?n?-?	"RT @EXOchanging: (#VENDA) Pôsters oficiais
+
+• Lotto: R$30,00
+• Monster: R$30,00
+• Baekhyun - The War: R$45,00
+• Chanyeol - The War: R$45,00…"	4	0		4320	458
+986720448497975296	bradesco	2018-04-18 21:37:41	d?n?-?	"RT @EXOchanging: (#VENDA) Pôsters oficiais
+
+• SFY: R$30,00
+• TPOM: R$30,00
+• Hey Mama! (ver. Black): R$35,00
+• Hey Mama! (ver. White): R$30…"	3	0		4320	458
+986719519942078465	bradesco	2018-04-18 21:34:00	Bradesco	@weganin Olá, em qual agência esteve?	0	0		157329	4635
+986719398349230082	bradesco	2018-04-18 21:33:31	a outra	@ihcriola Se tu tiver cartão Bradesco paga meia... Faz a id jovem que tu paga meia tbm	0	0		445	277
+986719389570527237	bradesco	2018-04-18 21:33:29	PauloRenatoDornelles	"Alimento da Palavra https://t.co/Yyovm6LEuJ Estamos na maior Crise da Palavra jamais havida pois até a Igreja já não confia em Jesus
+Join us at: https://t.co/jRlGo8m0DH; conta bancária: Paulo Renato Dornelles, Bradesco nº 237 AG: 0993-8 C/C: 6644-3 CPF:  135.649.780-20"	0	0		1	3
+986719328136585218	bradesco	2018-04-18 21:33:14	jessica	"RT @EXOchanging: (#VENDA) Pôsters oficiais
+
+• Lotto: R$30,00
+• Monster: R$30,00
+• Baekhyun - The War: R$45,00
+• Chanyeol - The War: R$45,00…"	4	0		510	966
+986719187761541121	bradesco	2018-04-18 21:32:41	EXOchanging	"(#VENDA) Pôsters oficiais
+
+• Lotto: R$30,00
+• Monster: R$30,00
+• Baekhyun - The War: R$45,00
+• Chanyeol - The War: R$45,00
+
+? Com rastreio
+? Depósito no Bradesco
+? Envio dobrado
+? Mais fotos por DM, caso queira
+? Manda brindes
+
+? Compre via DM com @caahogatamoraes https://t.co/rAtM1GtY0r"	4	1		175	6
+986718885843034113	bradesco	2018-04-18 21:31:29	Bradesco	@Debora_1910 Débora ainda está dentro do prazo de 3 dias úteis. peço por gentileza que aguarde.	0	0		157329	4635
+986718826590081024	bradesco	2018-04-18 21:31:15	EXOchanging	"(#VENDA) Pôsters oficiais
+
+• SFY: R$30,00
+• TPOM: R$30,00
+• Hey Mama! (ver. Black): R$35,00
+• Hey Mama! (ver. White): R$30,00
+
+? Com rastreio
+? Depósito no Bradesco
+? Envio dobrado
+? Mais fotos por DM, caso queira
+? Manda brindes
+
+? Compre via DM com @caahogatamoraes https://t.co/rsSlQmVrcI"	3	1		175	6
+986718158538014720	bradesco	2018-04-18 21:28:35	Aurelio2201	"RT @PortalTrendsTop: CONTA: CAROLINE APARECIDA DINIZ MOSCARDINI
+AGÊNCIA: 6564-1
+CONTA POUPANÇA: 1001166-3
+BANCO: BRADESCO
+CPF: 128877196-70…"	161	0		37	130
+986718083665616904	bradesco	2018-04-18 21:28:18	Aurelio2201	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		37	130
+986718046629847041	bradesco	2018-04-18 21:28:09	OliveiraCrf ???.?	Todo mundo me deseja juízo, ninguém me deseja dinheiro será que tá escrito Bradesco na minha testa ?? ??	0	0		78	209
+986717166031507457	bradesco	2018-04-18 21:24:39	Muri	Tá mais que na hora do @Bradesco lançar um cartão sem anuidade. 12x de R$18,44 é um absurdo sim.	0	0		202	198
+986717060624470016	bradesco	2018-04-18 21:24:14	Nova Cruz Oficial	"#CONFIRA
+
+Banco Bradesco é condenado no RN por descontos indevidos em aposentadoria de idosa
+https://t.co/1mh50i0JQp https://t.co/1mh50i0JQp"	0	0		1360	622
+986716759670624256	bradesco	2018-04-18 21:23:02	Muri	O atendimento dos cartões de crédito @Bradesco é ruim demais. Entre em contato pra negociar a anuidade (que é caríssima) e eles ficam te empurrando título de capitalização e plano odontológico. Desconto que é bom, quase nada.	0	0		202	198
+986716308489342976	bradesco	2018-04-18 21:21:14	PS?Ferreira ???	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		58	324
+986716290558644224	bradesco	2018-04-18 21:21:10	???VASCO GIGANTE???????	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		16	160
+986715396102377473	bradesco	2018-04-18 21:17:37	Ana Rosa Abreu	O que será o amanhã?: BB desbanca Bradesco e vence leilão para Banco Pos... https://t.co/gDjy6zGKpG	0	0		200	1254
+986714978462953472	bradesco	2018-04-18 21:15:57	benevides ?	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		364	699
+986712653681823744	bradesco	2018-04-18 21:06:43	silvio	O BRADESCO ME IRRITA MUITO	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	447	254
+986712596924502016	bradesco	2018-04-18 21:06:29	Marko Ourisso	Notícia importante: o Banco do Brasil, Bradesco, Itaú e Santander - bancos rivais da Caixa - reduziram suas taxas de juros para CRÉDITO IMOBILIÁRIO, facilitando o financiamento de imóveis. Fique atento corretor, pois o... https://t.co/OORSbTaAhj	0	0		115	1126
+986712577349750784	bradesco	2018-04-18 21:06:25	Celisa Amaral Frias	RT @FriasNeto: A Frias Neto realizou na quinta-feira (12/04), a palestra Tendências da Economia Nacional e Seus Reflexos no Mercado Imobili…	1	0		223	395
+986711700480188417	bradesco	2018-04-18 21:02:56	Frias Neto Imóveis	"A Frias Neto realizou na quinta-feira (12/04), a palestra Tendências da Economia Nacional e Seus Reflexos no Mercado Imobiliário com o economista do Depec (Departamento de Pesquisas e Estudos Econômicos) do @Bradesco, Robson Pereira. ??
+Confira: https://t.co/86jeJdJlVL https://t.co/ECM4vbsXnf"	1	1		2674	723
+986711233641541632	bradesco	2018-04-18 21:01:04	????’?	Ôh banco mequetrefe esse Bradesco	0	0		4311	426
+986711125130665986	bradesco	2018-04-18 21:00:39	Thay Morais ?	Esse meu cartão do Bradesco tá uma palhaçada que só !!!	0	0		1153	397
+986711020981899264	bradesco	2018-04-18 21:00:14	Caroline	To quase cancelando minha conta no Bradesco, que raiva!	0	1		278	180
+986710919467159556	bradesco	2018-04-18 20:59:50	Victor	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		457	455
+986709910758088704	bradesco	2018-04-18 20:55:49	anabê	sabe oq que eu queria mesmo? Ir amanhã no teatro Bradesco às 21h	0	0		256	218
+986709584701280256	bradesco	2018-04-18 20:54:31	Bradesco	@karxnferreira Que bom que deu certo :)	0	0		157329	4635
+986709211219419136	bradesco	2018-04-18 20:53:02	Frases Vasco da Gama	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		35742	50
+986709078259924992	bradesco	2018-04-18 20:52:31	Gzzy™	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		1143	665
+986707761663741954	bradesco	2018-04-18 20:47:17	ynara	e eu que descobri q minha professora de inglês do curso, é minha colega de trabalho no bradesco,	0	0		365	266
+986707734727868416	bradesco	2018-04-18 20:47:10	Menezes RH	"BRADESCO - VAGAS DE EMPREGO - 40 ENTREVISTAS AMANHÃ - ATENTO
+Para acessar esta vaga, informações e detalhes, clique abaixo.
+Compartilhe esta oportunidade, marque seus amigos... https://t.co/1qbx136V5o"	0	0		1074	2
+986707372071669760	bradesco	2018-04-18 20:45:44	betinho ?	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		1071	537
+986707220925767680	bradesco	2018-04-18 20:45:08	Bradesco	@leeomatos Oi, como posso ajudar?	0	1		157329	4635
+986706960488820742	bradesco	2018-04-18 20:44:06	Total Nightmare	e dps na Bradesco https://t.co/iczNh38Yow	0	1		177	414
+986706960480456709	bradesco	2018-04-18 20:44:06	Pé ??	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		3559	3062
+986706958173564928	bradesco	2018-04-18 20:44:05	Maurílio dos Anjos	RT @baconlegal: @wthyasmim Ai miga toma vergonha nessa cara e vamos assaltar logo o bradesco	1	0		846	692
+986706858810454016	bradesco	2018-04-18 20:43:41	tokio	@wthyasmim Ai miga toma vergonha nessa cara e vamos assaltar logo o bradesco	1	1	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	2688	1831
+986706747908935681	bradesco	2018-04-18 20:43:15	Lucas	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		622	357
+986706291035987968	bradesco	2018-04-18 20:41:26	EU SOU VASCÃO	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		27179	2218
+986706012731265025	bradesco	2018-04-18 20:40:20	Gustavo	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		1091	554
+986705600204689408	bradesco	2018-04-18 20:38:41	Lionel Matheus	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		529	389
+986705291407515648	bradesco	2018-04-18 20:37:28	nomar	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		510	437
+986705135249362944	bradesco	2018-04-18 20:36:50	Pedro	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		1962	789
+986705057365348352	bradesco	2018-04-18 20:36:32	Raphael	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		482	695
+986705004059820032	bradesco	2018-04-18 20:36:19	Philipp Plein ??	Tô tentando abrir uma conta Bradesco ?	0	0		967	820
+986704643236532225	bradesco	2018-04-18 20:34:53	2Mau ??	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		979	351
+986704324117098497	bradesco	2018-04-18 20:33:37	Barsanzin ???	Sempre que eu pego carona com o Pará do Bradesco, fico rindo muito das histórias desse cara ?????	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='4029837e46e8e369', url='https://api.twitter.com/1.1/geo/id/4029837e46e8e369.json', place_type='city', name='Nova Iguaçu', full_name='Nova Iguaçu, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.681932, -22.865838], [-43.366801, -22.865838], [-43.366801, -22.527218], [-43.681932, -22.527218]]]), attributes={})	1466	303
+986704180525129728	bradesco	2018-04-18 20:33:03	henrique 5d ?	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		3455	2795
+986704147281055745	bradesco	2018-04-18 20:32:55	nin a	a bradesco nao atende eu to aqui achando que vou morrer	0	0		505	97
+986704087499591681	bradesco	2018-04-18 20:32:41	Waldemy Segundo	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		42	150
+986704070172991490	bradesco	2018-04-18 20:32:37	brinne	"RT @IsabelVicsf: Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Fe…"	5	0		937	923
+986703682493444097	bradesco	2018-04-18 20:31:04	Scalercio oficial	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		199	216
+986703679620345856	bradesco	2018-04-18 20:31:03	Sindicato dos Bancários de SP, Osasco e Região	Bradesco Cartões Rio Negro já tem seus representantes na Cipa. https://t.co/LWCWgHm9nT https://t.co/aVhChjDbaD	0	0		20715	320
+986703515161710592	bradesco	2018-04-18 20:30:24	Netinho de Paula	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		150	608
+986703488754339840	bradesco	2018-04-18 20:30:18	Cavalinho do Vasco	RT @MariDiniz086: Em 2016 foi descoberto um câncer na glândula supra renal da minha filha Caroline !Foi criada a campanha #todosjuntospelac…	1102	0		21256	114
+986702634940817409	bradesco	2018-04-18 20:26:54	surgiu.com.br	Circuito Cultural Bradesco Seguros apresenta atrações de abril https://t.co/q8zDLPkLhW	0	0		2568	720
+986701677867741185	bradesco	2018-04-18 20:23:06	michel c. aragao	I'm at Banco Bradesco - Méier in Rio de Janeiro, RJ https://t.co/M9VctVOyx9	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	503	994
+986701581327458305	bradesco	2018-04-18 20:22:43	Loja Roupa Nova	"Prezados Clientes e amigos,
+Chegou muitas  novidades você encontra aqui!
+PRINCESINHA CONFCÇÔES na Getúlio Vargas entre a Piauí  e Ceará em frente ao Bradesco - Imperatriz-Ma"	0	0		36	43
+986700650955370497	bradesco	2018-04-18 20:19:01	?	Mais um dia cansativo no Bradesco.	0	0		779	464
+986699666917085185	bradesco	2018-04-18 20:15:07	Bruno Cidadão	@Bradesco Obrigado.	0	0		115	117
+986697956253405191	bradesco	2018-04-18 20:08:19	A_Mo	@Bradesco pra abrir conta salário, precisa ir na agência duas vezes?	0	0		249	396
+986697719849930752	bradesco	2018-04-18 20:07:23	jordy	Bradesco testando minha paciência.	0	0		125	195
+986697102339264517	bradesco	2018-04-18 20:04:55	CARLINHOS DO INGÁ	@Bradesco Bra vc não consegue nem ser um banco direito, agora vai ficar querendo organizar show ????? Prioriza em ser um banco primeiro, depois vc se diverte em show	0	0		2367	501
+986696543058169857	bradesco	2018-04-18 20:02:42	CARLINHOS DO INGÁ	Em pleno 2018 e o @Bradesco ainda consegue me surpreender com sua falta de capacidade para resolver os meus problemas, tão de parabéns.	0	0		2367	501
+986696508874641408	bradesco	2018-04-18 20:02:34	Bradesco	"@_AlanaGabrielle [...] No menu por comando de voz vc precisa falar ""dúvida sobre a conta"" para falar com um atendente. Se vc tiver a biometria cadastrada, a ativação também pode ser feita nas máquinas de autoatendimento."	0	0		157329	4635
+986696227365453825	bradesco	2018-04-18 20:01:27	Bradesco	@_AlanaGabrielle Oi,   ! Caso vc ainda tenha a chave cadastrada no aparelho anterior, vc pode entrar em contato com a central do Fone Fácil para solicitar o cadastro no novo aparelho: 4002-0022 (Capitais e regiões metropolitanas) ou 0800-570-0022 (Demais Regiões). [...]	0	0		157329	4635
+986695982971748353	bradesco	2018-04-18 20:00:28	Allan :3	Oi @falanext , só o Bradesco tá aceitando Google pay ou Next também?	0	0		654	508
+986695740419387394	bradesco	2018-04-18 19:59:31	Bradesco	@less4_ Oi! Posso ajudar? O que houve?	0	0		157329	4635
+986695739622477824	bradesco	2018-04-18 19:59:30	Bradesco	@SsouzaFranciele Olá, Franciele preciso que me informe por onde identificou essa cobrança, e chegou a verificar em sua antiga agência?	0	0		157329	4635
+986695527751389184	bradesco	2018-04-18 19:58:40	Bradesco	@achgabi Olá! Posso ajudar? O que houve?	0	0		157329	4635
+986695030336380929	bradesco	2018-04-18 19:56:41	Carlos ?	"RT @IsabelVicsf: Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Fe…"	5	0		7095	7281
+986694789511950337	bradesco	2018-04-18 19:55:44	Bradesco	@maitemaartins Fico à disposição!	0	0		157329	4635
+986694600378155009	bradesco	2018-04-18 19:54:59	Marcella	ranço desse Bradesco......	0	0		556	301
+986694056251133952	bradesco	2018-04-18 19:52:49	Cheryl Lindona	"RT @IsabelVicsf: Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Fe…"	5	0		1540	1096
+986693959778029568	bradesco	2018-04-18 19:52:26	Bradesco	@tatem__ Olá! Posso ajudar? O que houve?	0	0		157329	4635
+986693586824695808	bradesco	2018-04-18 19:50:57	skng	RT @LollapaloozaBr: O Bradesco agradece todo mundo que ficou de olho na sua cobertura digital e participou do maior #LollaBR da história. D…	2	0		650	770
+986693272243507200	bradesco	2018-04-18 19:49:42	Bradesco	@kkkksijdidjs [...] para que vc não tenha que pagar cada operação que for realizar na conta de forma avulsa. Vc pode consultar os serviços inclusos da sua cesta aqui: https://t.co/DeSDCtC3mf . A alteração pode ser feita na sua agência ou na central do Fone Fácil.	0	0		157329	4635
+986692960971575296	bradesco	2018-04-18 19:48:28	Bradesco	@kkkksijdidjs Oie! A tarifa de cesta de serviços se refere a pacotes de serviços na conta que incluem franquias mensais para diversos tipos de operações, como quantidade de saques, retiradas de extratos, transferências, entre outros, [...]	0	0		157329	4635
+986692890733752320	bradesco	2018-04-18 19:48:11	Quase pole dancer	@camilafbarros @Bradesco É pq existe uma resolução que diz que as contas sem movimentação por um determinado período de tempo (não sei exatamente qto) devem ser bloqueadas. Provavelmente vc tinha cheque especial e foi cobrando juros da conta, mas, provavelmente, não deveria.	0	1		94	281
+986692731052478464	bradesco	2018-04-18 19:47:33	evelyn	pra que terceira temporada vao invadir o bradesco agora é	0	1		369	174
+986692570301558786	bradesco	2018-04-18 19:46:55	Bradesco	@noiada_a Oi! Vou pedir que verifiquem o que aconteceu. Me mande por DM seu telefone com DDD? https://t.co/AZr1IzXD1m	0	0		157329	4635
+986692311211040768	bradesco	2018-04-18 19:45:53	Isadora Nolli	Se tem uma pessoa que odeia o bando bradesco, essa pessoa sou eu!!!!! Que estresse	0	0		158	197
+986691988203409409	bradesco	2018-04-18 19:44:36	Bradesco	@crvgmillena Olá! Você já falou com seu gerente sobre isso?	0	0		157329	4635
+986691607046115328	bradesco	2018-04-18 19:43:05	Marielle, presente!	@___rapha___ @Bradesco Sei lá, devia ter. Devo ter entrado no cheque especial sem querer, né? Que merda.	0	0		913	417
+986691578688344064	bradesco	2018-04-18 19:42:58	MARIA	Meu presente de aniversário vai ser a bela caminhada que vou ter que fazer da rodoviária até o Detran e dps pro Bradesco	0	1		96	89
+986691474602504193	bradesco	2018-04-18 19:42:34	Luzianne. Fã da LP ?	RT @luizapossi: Estou morrendo! Sério um show de piano e voz. Eu e Alcione! Não pensei que eu podia chegar tão longe! Torçam amores e compa…	3	0		409	761
+986691386891210759	bradesco	2018-04-18 19:42:13	Quase pole dancer	@camilafbarros @Bradesco Tinha cheque especial?	0	0		94	281
+986691201905647617	bradesco	2018-04-18 19:41:29	Bradesco	@lentematerna Olá! Posso ajudar?	0	0		157329	4635
+986691023995854849	bradesco	2018-04-18 19:40:46	liamar ?	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		38	258
+986690705945964545	bradesco	2018-04-18 19:39:30	Bradesco	@dinastty_ Oi! Posso ajudar? O que houve?	0	0		157329	4635
+986690236532121602	bradesco	2018-04-18 19:37:38	Marielle, presente!	@___rapha___ @Bradesco Parei de movimentar há coisa de 1 ano eu acho	0	0		913	417
+986690226310516738	bradesco	2018-04-18 19:37:36	Bradesco	@chriscsilva27 Oi! Caso o cartão não tenha sido entregue dentro do prazo de até 10 dias úteis no endereço cadastrado e não tenha voltado para sua agência, é necessário contatar o Fone Fácil para solicitar o cancelamento do cartão por extravio e a reemissão de uma nova via.	0	0		157329	4635
+986690152616677376	bradesco	2018-04-18 19:37:18	Jesse James	@Diario__Fla @belaccioy @Corinthians Deveriam então disputar um campeonato contra o BB, Itau, Sandander, Bradesco, para ver se tem chance de ganhar alguma coisa no financeiro... porque no futebol ??	0	0		406	333
+986690076661993472	bradesco	2018-04-18 19:37:00	Bradesco	@fewscabeyo Olá! Você se refere à fatura do cartão? Se for débito automático na conta, a baixa do pagamento e retorno do limite têm o prazo de 2 dias úteis. Se você recebe a fatura em casa, o prazo para dar baixa é de 5 dias úteis.	0	0		157329	4635
+986689777067003907	bradesco	2018-04-18 19:35:49	Luiza	No Bradesco, por exemplo, faço questão de pedir água com gás ainda	0	0		773	486
+986689703855427584	bradesco	2018-04-18 19:35:31	Laertte Ferreira	Ei @Bradesco Tu és um dos piores banco, só tenho vc até hoje pq dependo do seu serviço para receber os salários!	0	1		533	342
+986688655304593408	bradesco	2018-04-18 19:31:21	boneca	Bradesco tá fudendo comigo	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	421	198
+986688640884576259	bradesco	2018-04-18 19:31:18	Quase pole dancer	@camilafbarros @Bradesco Vc movimentava a conta? Pq era pra ter sido cancelada por falta de movimentação.	0	0		94	281
+986687959436054534	bradesco	2018-04-18 19:28:35	Bradesco	@noiada_a Ao preencher as informações vc selecionou a conta poupança para débito?	0	0		157329	4635
+986686840265723906	bradesco	2018-04-18 19:24:09	Rárissauro	@IsabelaaFreitas Não sei quanto à Caixa, mas nem se compara meu cartão online/digital com o do Bradesco. O digital dá de 10 a Zero. Banco normal/renomado só tá me dando dor de cabeça ultimamente.	0	1		416	390
+986686476120444931	bradesco	2018-04-18 19:22:42	Bradesco	@mathbarbosa98 Olá! O que houve? Posso ajudar?	0	0		157329	4635
+986684830963392512	bradesco	2018-04-18 19:16:10	Bradesco	@bmjessica_ Oi! Lamento por isso. Qual é o código ou o endereço da agência que vc compareceu? Conseguiu realizar a abertura da conta?	0	0		157329	4635
+986684331723804673	bradesco	2018-04-18 19:14:11	Amanda	Quem inventou aquela merda da digital da mão no Banco Bradesco? Pqp!! Hoje fiquei quase uma hora lá pra tentar fazer leitura da digital	0	0		72	110
+986683473384570880	bradesco	2018-04-18 19:10:46	Thais	Esse aplicativo do bradesco é um infernoooo	0	1		620	357
+986683426915876866	bradesco	2018-04-18 19:10:35	camila	@Bradesco Boa tarde, quero tirar um conta de débito automático, como faço?	0	0		2292	1253
+986683363850416128	bradesco	2018-04-18 19:10:20	Sam??	Sobre os atendentes do Bradesco https://t.co/6HCamKICz3	0	1		147	143
+986683223601278976	bradesco	2018-04-18 19:09:46	Jem Rules	@Bradesco me ajuda e segura minha mão e resolve meu problema pq não tô afim de xingar vcs, mas tô quase	0	0		191	307
+986683105888129026	bradesco	2018-04-18 19:09:18	Pedro	@Bradesco Boa iniciativa. Mas nesse meio tempo é possível reconhecer que aceitar cobrança em cartão de crédito cancelado é um erro? O valor é ridículo, mas a questão é sobre responsabilidade.	0	0		281	542
+986682570099318784	bradesco	2018-04-18 19:07:11	Romanski	@Bradesco não meu odiado Bradesco, paguei a fatura em aberto q a atendente não tinha falado, vou ter q esperar + 1 mês pra cancelar essa merda, + d 1 mês pra cancelar uma simples conta, pqp isso d uma empresa bilionária.	0	0		310	469
+986682492722671616	bradesco	2018-04-18 19:06:52	evellin	"todo dia uma dor de cabeça nova com o @Bradesco 
+PIOR BANCO DE TODOS 
+não recomendo nem pro meu pior inimigo"	0	0		571	34
+986682030388805633	bradesco	2018-04-18 19:05:02	Pedro	@bradesco pisando feio na bola Cancelei um cartão amex no dia 15/2, quitei a fatura e recebi comprovante de cancelamento e quitação no dia 17/2. Por alguma falha (assumo não-intencional) aceitou cobrança no cartão já cancelado por 2 meses e agora quer me cobrar seu erro com juros	0	0		281	542
+986681655049052160	bradesco	2018-04-18 19:03:32	Jojaderson	@ihsassa @Bradesco Fui no site do serasa só, aí lá mostra que tem uma pendência do Bradesco	0	0		76	74
+986681552385007616	bradesco	2018-04-18 19:03:08	Cíntia Fernandes ?	"Qnd vc atende o telefone da agência correndo ""Bradesco Cín..."" E o seu chefe te trola "" atenção vc demorou p atender, vc está eliminada do big Brother Brasil"" kkkkkkkk ridiculo cara"	0	1		671	355
+986681356674625536	bradesco	2018-04-18 19:02:21	Culturaliza BH	"Podé Coutinho, vocalista da Tianastácia, lança seu segundo disco solo, ""Poemas Pra Ouvir"", nesta quinta (19/04), no Teatro Bradesco.
+
+https://t.co/gbgIutD49f
+
+ #cultura #cult #tianastácia #show #lançamento #música #poemas"	0	0		735	689
+986681257299009536	bradesco	2018-04-18 19:01:58	Bruna Campregher	@Bradesco Que lixo de aplicativo! Não dá pra fazer nenhum pagamento por essa merda, que reinicia! Pior banco	0	0		148	109
+986680739562446849	bradesco	2018-04-18 18:59:54	Fato Amazônico	Juiz plantonista determina que Bradesco Saúde autorize e custeie atendimento domiciliar a idosa de 101 anos  - https://t.co/TZ1XTLc0rO https://t.co/W3J9M3inK4	0	0		1355	2413
+986679853599649793	bradesco	2018-04-18 18:56:23	Bradesco	@thayancesar Vou abrir uma reclamação sobre isso. Envie seu telefone com DDD por DM, por favor. https://t.co/AZr1IzXD1m	0	0		157329	4635
+986679664382013440	bradesco	2018-04-18 18:55:38	Imóvel S.A.	Bradesco e Tishman Speyers fecham maior negócio do ano : https://t.co/aK91GESJVH	0	0		1247	1834
+986679255731003392	bradesco	2018-04-18 18:54:00	Bradesco	@Psyche_Dream138 Olá! Por onde você solicitou esse cartão? Qual é a bandeira dele?	0	0		157329	4635
+986678743577038848	bradesco	2018-04-18 18:51:58	Marielle, presente!	@arthurcruzb @Bradesco Amigo, e os juros??? Que ódio!!! Eu consegui que a gerente me desse uma carta de cancelamento pra assinar e enviar por malote pra São Pedro. Daqui uns 30 dias a conta deve ser encerrada. Paguei 800 golpes!	0	0		913	417
+986678362663014400	bradesco	2018-04-18 18:50:27	Edson	RT @MaurilioBarbosa: Queria agradecer os mimos que recebi de Páscoa, em especial Bradesco e Santander que me mandaram varias cartinhas fofa…	3	0		184	92
+986677828287717378	bradesco	2018-04-18 18:48:20	Jojaderson	@UmaGuriaa @Bradesco Siim to o dia inteiro na função ?	0	1		76	74
+986677253424734208	bradesco	2018-04-18 18:46:03	Lagertha	@johnfalcao @Bradesco Que absurdo! Como assim ninguém sabe informar o motivo? ?	0	1		504	110
+986676234238259201	bradesco	2018-04-18 18:42:00	Bradesco	@Gabriel_MSantos Qual serviço/informação você precisava resolver? Posso abrir uma reclamação sobre a demora no atendimento. Pra isso, envie seu telefone com DDD por DM, por favor. https://t.co/AZr1IzXD1m	0	0		157329	4635
+986675954734026752	bradesco	2018-04-18 18:40:53	Bradesco	@brunocidadao O acesso ao autoatendimento com a biometria só é permitido se a conta estiver com o cartão de débito ativo por questões de segurança. Permaneço à disposição se precisar!	0	0		157329	4635
+986675360904417280	bradesco	2018-04-18 18:38:32	jordy	@Bradesco será se vcs roubam dinheiro da minha conta pra bancar viagem de youtuber? deve ser né	0	0		125	195
+986675225579401235	bradesco	2018-04-18 18:37:59	?F	@Bradesco me ajuda ai @Bradesco	0	0		432	76
+986674384759861276	bradesco	2018-04-18 18:34:39	jordy	@Bradesco banco lixo!!!!! roubando todo mês dinheiro da minha conta, sendo que nem solicitei essa CESTA CLICK CONTA, quero meu dinheiro de volta ou vou ter prazer de cancelar minha conta.	0	0		125	195
+986673972635987973	bradesco	2018-04-18 18:33:01	Arthur Barbosa	@camilafbarros @Bradesco eu descobri que tem uma conta universitária minha no BB que não uso há pelo menos 10 anos que tá com um saldo devedor de uns R$200. só consigo encerrá-la em Macaé. vou ficar devendo esses 200 até morrer, acho o cúmulo	0	1		427	1254
+986673959641985029	bradesco	2018-04-18 18:32:58	Jojaderson	Já fui em 2 agências diferentes, já liguei pro fone fácil e ninguém sabe me dizer o motivo real de eu estar no Serasa. Vocês me cobram, sujam meu nome e não sabem dizer o pq @Bradesco?	0	3		76	74
+986672776198180864	bradesco	2018-04-18 18:28:15	Marielle, presente!	Tentando encerrar uma conta no @Bradesco em Macaé, mas a conta é da agência de São Pedro da Aldeia então eu não consigo cancelar por aqui. E nessa brincadeira já estou devedora quase R$1000 pq nunca consigo ir a São Pedro em dia útil horário bancário.	0	1		913	417
+986671869553192960	bradesco	2018-04-18 18:24:39	Patrick Carvalho	@Bradesco vocês poderiam por favor me enviar o código de rastreamento do meu cartão Amex Green Card no DM por favor? Estou tentando pegar na central e não consigo.	0	0		101	293
+986668433000534017	bradesco	2018-04-18 18:11:00	Bradesco	@buckywho Oi! Existe um projeto, mas não há previsão de disponibilização.	0	0		157329	4635
+986668374238343168	bradesco	2018-04-18 18:10:46	Bradesco	@deborasem_h Oi! De qual loja é o seu cartão? O que acontece quando entra em contato com a central?	0	0		157329	4635
+986667966522634245	bradesco	2018-04-18 18:09:09	Thiago Alves	@Bradesco, c tá aí??!	0	0		103	1113
+986667899409575941	bradesco	2018-04-18 18:08:53	Bradesco	@claaaaaaudias Olá! Do que é sua dívida? Se preferir, responda por DM. https://t.co/AZr1IzXD1m	0	0		157329	4635
+986667753670168576	bradesco	2018-04-18 18:08:18	pirigotica	+1 tentativa de vir ao Bradesco	0	0		1158	1114
+986667642567233537	bradesco	2018-04-18 18:07:52	Bradesco	@brunnogustavo Fico à disposição por aqui então, Brunno.	0	1		157329	4635
+986667551777218560	bradesco	2018-04-18 18:07:30	Vicenzzo Mandetta	É impressionante a burocracia do Bradesco, pqp! Eu perco o cartão, eles cancelam a biometria cadastrada e agora eu não consigo sacar dinheiro nem indo na boca do caixa das agências, tnc!	0	10		3171	414
+986667235237392384	bradesco	2018-04-18 18:06:14	Chogiwa Store	"RT @ChogiwaStore: (?) PRONTA ENTREGA: GOT7, ON LACRADO
+• 147,00 reais
+• Pôster dobrado incluso e Look Book
+• Pagamento por depósito/transfe…"	8	0		2918	91
+986666985277796364	bradesco	2018-04-18 18:05:15	Bradesco	@sambarilov Olá! O Fone Fácil é uma central operacional. Qual serviço você precisa realizar? Para falar com o SAC o número é 0800 704 8383 e a opção é 8.	0	0		157329	4635
+986666510121873409	bradesco	2018-04-18 18:03:22	300% DE JUROS NO DO POVO	@AlexSchwartsman @folha Capturado pela odebrecht, jbs, brf, itau, bradesco etc	0	0		982	338
+986666327724232704	bradesco	2018-04-18 18:02:38	Frias Neto Imóveis	"A Frias Neto realizou na quinta-feira (12/04), a palestra Tendências da Economia Nacional e Seus Reflexos no Mercado Imobiliário com o economista do Depec (Departamento de Pesquisas e Estudos Econômicos) do @Bradesco, Robson Pereira. ??
+Confira: https://t.co/86jeJdJlVL https://t.co/fCTBVP8XPg"	0	1		2674	723
+986666017563791361	bradesco	2018-04-18 18:01:24	TY	@Bradesco gostaria de comunicar a minha indignação. O funcionário de vocês demora 40 minutos pra abrir uma conta, por pessoa.	0	0		686	726
+986665858670964739	bradesco	2018-04-18 18:00:46	?	a Fundação Bradesco na qual concluí o EM mandou um e-mail com um questionário sobre o q to fazendo da vida como se fosse me dá um emprego no banco Bradesco	0	0		1485	879
+986665530311442432	bradesco	2018-04-18 17:59:28	Bradesco	@brmagrali Olá! O que acontece quando acessa o aplicativo? O que aconteceu exatamente?	0	0		157329	4635
+986663983452172304	bradesco	2018-04-18 17:53:19	F e r r e i r a	I'm at Bradesco in Nova Iguaçu, Rio de Janeiro https://t.co/INvOKADGB8	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='4029837e46e8e369', url='https://api.twitter.com/1.1/geo/id/4029837e46e8e369.json', place_type='city', name='Nova Iguaçu', full_name='Nova Iguaçu, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.681932, -22.865838], [-43.366801, -22.865838], [-43.366801, -22.527218], [-43.681932, -22.527218]]]), attributes={})	796	532
+986663778304569344	bradesco	2018-04-18 17:52:30	Majimak Shop	@sensehobii @idolfreakx Bradesco ou Itaú	0	0		6440	167
+986663518983327744	bradesco	2018-04-18 17:51:28	Belzinha?	Não demorei nem 5 minutos dentro do Bradesco e eu não to mentindo	0	0		68	84
+986663348367437830	bradesco	2018-04-18 17:50:48	MORANGUINHO	"RT @IsabelVicsf: Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Fe…"	5	0		234	246
+986663302142013441	bradesco	2018-04-18 17:50:37	Love, Pedro	@atatianyLeite @Bradesco Churros o verdadeiro rei do booktube	0	0		116	215
+986662977393905664	bradesco	2018-04-18 17:49:19	Tatiany Leite	vieram umas pessoas do @Bradesco de Curitiba aqui e, no meio da visita, perguntaram: Cadê aquele cachorrinho que tem nome de doce que trabalha aqui?	0	6		2682	412
+986662870439157760	bradesco	2018-04-18 17:48:54	Ká	Aí o “Bradesco” te liga e fica te oferecendo cartões que você não quer e mesmo você dizendo não com toda educação, seguem insistindo e perguntando dados pessoais. Que saco.	0	0		214	163
+986662497481617414	bradesco	2018-04-18 17:47:25	jungle feet FUCK OFF queen b ani banani	@bradesco tem que acabar https://t.co/jfutEtvWjN	0	0		652	365
+986661986896359431	bradesco	2018-04-18 17:45:23	manu	RT @ventura_nicolly: Obg Fundação Bradesco,por tá cagando meu terceiro ano	1	0		1099	775
+986661673288241153	bradesco	2018-04-18 17:44:08	Hells	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		334	462
+986661107568914434	bradesco	2018-04-18 17:41:53	marquin	To sofrendo por causa do bradesco tb	0	3	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='1c88433143d383e1', url='https://api.twitter.com/1.1/geo/id/1c88433143d383e1.json', place_type='city', name='Duque de Caxias', full_name='Duque de Caxias, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.4161389, -22.8132778], [-43.1776054, -22.8132778], [-43.1776054, -22.475838], [-43.4161389, -22.475838]]]), attributes={})	46174	33718
+986660656656125953	bradesco	2018-04-18 17:40:06	milenevlacerda?	@obetomuniz @itau O @Bradesco tb ta querendo fazer isso cmg para o internet banking haha só consigo acessar pelo App (pelo menos isso ??)	0	0		1225	648
+986659058013876232	bradesco	2018-04-18 17:33:45	laila ?	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		688	802
+986658035761385472	bradesco	2018-04-18 17:29:41	mari?got7	"RT @ChogiwaStore: (?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pa…"	4	0		902	474
+986656877764399104	bradesco	2018-04-18 17:25:05	Arthur	Galera do Marketing do Bradesco tá de parabéns. https://t.co/65o7inQZ0s	0	6		343	289
+986656423777054725	bradesco	2018-04-18 17:23:17	nicØLLy	Obg Fundação Bradesco,por tá cagando meu terceiro ano	1	2		825	260
+986656392470769664	bradesco	2018-04-18 17:23:09	Isabel Victória	"Até dando rt já vão me ajudar muito ??
+Dados bancários: 
+Conta - 23717-5 
+Agência - 1700-0
+Patrícia Fernanda dos Santos Ferreira
+Banco Bradesco"	5	4		979	427
+986656167303827456	bradesco	2018-04-18 17:22:16	dora aventureira	@carolmgs Miga Bradesco é horrivel	0	1		111	48
+986655920854888448	bradesco	2018-04-18 17:21:17	Bradesco	@karinapinto Olá! Essa agência fica na Rodovia Augusto Montenegro, 3000 em Belém/PA? Se sim, envie seu telefone com DDD por DM, por favor. Vou abrir uma reclamação sobre isso! https://t.co/AZr1IzXD1m	0	0		157329	4635
+986655239850864647	bradesco	2018-04-18 17:18:35	Duarte	RT @istefinii: um bradesco bem em frente a favela é viagem	2	0		912	782
+986654274909364224	bradesco	2018-04-18 17:14:44	Dennis	"@guipaoficial Guipa meu Bilisco escutava você desde a Bradesco e agr assisto vc é me vejo em você torço por vc meu rango  
+
+O BRASIL QUER TE OUVIR !!!! 
+
+PRO CHORORÔ DA IMPRENSA MARROM"	0	0		3	20
+986653525668192256	bradesco	2018-04-18 17:11:46	Bruno Rodrigues	#banheiraoCe hoje fui no banheiro da casa Blanca enfrente ao Bradesco da pra rolar de Boa deserto!	0	0		1	31
+986652743120105473	bradesco	2018-04-18 17:08:39	Ricardo Motta	#LaCasaDePapel3 vem assaltar o @Bradesco @itau @BancodoBrasil e @Caixa faz isso por nós	0	0		248	494
+986652462395293696	bradesco	2018-04-18 17:07:32	Leandro p7	RT @istefinii: um bradesco bem em frente a favela é viagem	2	0		1883	1059
+986652308661592064	bradesco	2018-04-18 17:06:56	teté e neném ?	um bradesco bem em frente a favela é viagem	2	7		960	639
+986652275098771458	bradesco	2018-04-18 17:06:48	NICO	@LollapaloozaBr E e o trabalho clandestino na montagem dos palcos? Algum esclarecimento sobre isso? Alguma nota do evento ou do Bradesco?	0	0		138	127
+986651482211672064	bradesco	2018-04-18 17:03:39	Pedro Netto	@eric_bah Não sou cliente Bradesco, mas o Itaú costuma responder rápido e orientar.	0	0		142	135
+986651338820988928	bradesco	2018-04-18 17:03:04	Eric Ellison	@_pmnetto Bradesco. Quando perdi meu cartão mandei um tweet perguntando como proceder e tals. Fui respondido uma semana depois quando já tinha achado o cartão	0	0		172	606
+986651231090348032	bradesco	2018-04-18 17:02:39	Carolzenha	BV/RR fazendo sucesso e aluna da Fundação Bradesco ainda ??? https://t.co/GvNc1K6SsF	0	1		405	449
+986651006606946304	bradesco	2018-04-18 17:01:45	Thiago Alves	@Bradesco responde meu DM seu lindo!	0	0		103	1113
+986650488576839681	bradesco	2018-04-18 16:59:42	Ju	I'm at Bradesco in Nilópolis, RJ https://t.co/APMT8GUixM	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='abbb45debbf38127', url='https://api.twitter.com/1.1/geo/id/abbb45debbf38127.json', place_type='city', name='Nilópolis', full_name='Nilópolis, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.469372, -22.848515], [-43.390788, -22.848515], [-43.390788, -22.791609], [-43.469372, -22.791609]]]), attributes={})	669	639
+986650463360647169	bradesco	2018-04-18 16:59:36	Ralph Oliveira	@Bradesco vcs poderiam ao menos me dizer que não podem me ajudar ao invés de só ignorar?	0	0		272	121
+986650146904657920	bradesco	2018-04-18 16:58:20	BG! ?	@Bradesco O celular continua o mesmo, porém não tenho mais interesse no cartão de crédito de vocês. Como disse, já tenho outro que não me cobra essa taxa absurda. Vou cancelar meu Elo. De qualquer forma, obrigado.	0	0		1069	690
+986649361630232578	bradesco	2018-04-18 16:55:13	Chogiwa Store	"(?) BTS - LOVE YOURSELF TEAR
+• Aleatório/escolha
+• Frete de 15-45 dias úteis ou 30-90 dias úteis
+• Lançamento: 18/05
+• Pagamento por depósito/transferência: caixa, itaú, sicoob, banco do brasil, bradesco, santander ou paypal
+• Orçamentos pela DM válido por 3 dias corridos https://t.co/471palKcmZ"	4	8		2918	91
+986649348166569985	bradesco	2018-04-18 16:55:10	Peggy Carter	Os 3 anos que estudei na Fundação Bradesco foram os piores anos da minha vida. Quando terminei o ensino médio lá,joguei fora qualquer coisa que me fazia lembrar daquele lugar	0	0		74	163
+986649218529091590	bradesco	2018-04-18 16:54:39	osni alves j	Juros para o consumidor têm de baixar, diz economista-chefe do Bradesco https://t.co/YcLaLWoudl	0	0		476	759
+986647312557469696	bradesco	2018-04-18 16:47:04	jungle feet FUCK OFF queen b ani banani	ai namoral por que o bradesco existe?	0	1		652	365
+986646137561067521	bradesco	2018-04-18 16:42:24	Riva Spinelli	@bradesco cartões não entrega a fatura do meu cartão @AmericanExpress . Quero confirmar as compras e não posso.	0	0		4	29
+986645345273896960	bradesco	2018-04-18 16:39:15	NoTrombone	"bradesco 
+meus empréstimos da Petros são
+https://t.co/8DIrGtDisU"	0	0		325	11
+986644927663702018	bradesco	2018-04-18 16:37:36	Juh Diegues	Amanhã vou na fundação bradesco sozinhaaaa	0	0		288	215
+986643991889436672	bradesco	2018-04-18 16:33:53	RAFAEL MELLO	"Hoje é aqui em paulinia 
+Bradesco seguros em Vitoria Convention Paulinia https://t.co/rEtGYhdsSm"	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='8bb53315fb45b9ec', url='https://api.twitter.com/1.1/geo/id/8bb53315fb45b9ec.json', place_type='city', name='Paulínia', full_name='Paulínia, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-47.218359, -22.8156233], [-47.059508, -22.8156233], [-47.059508, -22.6778679], [-47.218359, -22.6778679]]]), attributes={})	277	643
+986643939552890880	bradesco	2018-04-18 16:33:40	Edvaldo	RT @Politica_Santos: Com a denuncia aceita, também vão investigar o envolvimento dos presidentes do Bradesco e Itau com Aecio para obstruir…	49	0		165	119
+986643104194355200	bradesco	2018-04-18 16:30:21	I T A ??	Como é satisfatório, tu chegar no @Bradesco e sempre ter alguém a disposição para te ajudar! ???	0	0		2998	2647
+986642053370179586	bradesco	2018-04-18 16:26:11	Denizard Terenzzo	#fsradiobrasil @benjaminback Eu nunca vi a Sony deixar de contratar profissionais da Toshiba, a Natura da Avon, a GM da Ford e o Itaú do Bradesco. Sempre cobramos profissionalismo no futebol, mas ao questionar o clube ir atrás de melhores profissionais, atestamos nosso amadorismo	0	0		41	63
+986641758674149377	bradesco	2018-04-18 16:25:00	Bradesco	@leomeida Informe por DM um telefone para contato com DDD para que eu solicite à área responsável agilidade na contestação da despesa, por favor. https://t.co/AZr1IzXD1m	0	0		157329	4635
+986641475453808645	bradesco	2018-04-18 16:23:53	Angelo Frias Neto	RT @FriasNeto: A Frias Neto realizou na quinta-feira (12/04), a palestra Tendências da Economia Nacional e Seus Reflexos no Mercado Imobili…	2	0		1009	486
+986641419229192194	bradesco	2018-04-18 16:23:39	Rick Mengão	"Esse é o filho da puta do @benjaminback:
+- Ah, mas o Andrés disse que a conta vai chegar
+Sormani: O Flamengo movimentou R$650 milhões ano passado e o corinthians?
+Filho da puta - O torcedor do corinthians tá mais feliz. Daqui a pouco o rival do Flamengo vira o bradesco"	0	1		759	375
+986641358243975168	bradesco	2018-04-18 16:23:25	Lucas Moraes	@Guih_Fernandess Kkk vou ali Bradesco agora, tenho cartão só débito, aí eles me ofereceram um de crédito vou lá ver a proposta deles ! Minha mãe não quer emprestar mais não ?	0	1		557	206
+986640524521213954	bradesco	2018-04-18 16:20:06	Original Escola de Música	"Estamos mudando para o banco Itaú!
+
+Estaremos fazendo essa mudança gradualmente e, por esse motivo, alguns alunos ainda receberão a cobrança pelo banco Bradesco enquanto outros já receberão pelo banco Itaú. https://t.co/gl5089ph28"	0	0		46	13
+986639820926672896	bradesco	2018-04-18 16:17:18	Portal do Fomento	BB, Itaú, Bradesco e Caixa concentram 78,51% do crédito no Brasil, diz BC https://t.co/nAfyQa86Rk	0	0		66	5
+986639030895996928	bradesco	2018-04-18 16:14:10	jose jesus	@evar1st0 @heleno_net @jeliasvaz @ajulysantos @ivan recuperou 13 bilhões aos cofres públicos, e o temer deu 25 bilhões ao itaú, mais 4 bilhões ao bradesco????	0	0		289	290
+986639004509659136	bradesco	2018-04-18 16:14:04	saturado	gnt eu to de boas aqui duro e fodido aí decidi entrar no bradesco pra fechar minha conta	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	527	177
+986637895141396480	bradesco	2018-04-18 16:09:39	???	RT @LollapaloozaBr: O Bradesco agradece todo mundo que ficou de olho na sua cobertura digital e participou do maior #LollaBR da história. D…	2	0		515	493
+986636790848245761	bradesco	2018-04-18 16:05:16	novinho sagaz ?	Vou ter q ir no Bradesco	0	0		788	1171
+986635693794512896	bradesco	2018-04-18 16:00:54	Alana Freitas	@Bradesco Bradesco preciso de uma resposta!!!!	0	0		250	117
+986635483714408449	bradesco	2018-04-18 16:00:04	Lollapalooza Brasil	O Bradesco agradece todo mundo que ficou de olho na sua cobertura digital e participou do maior #LollaBR da história. De perto ou de longe, o rumo é só um: pra frente. #TodosNoLollaBR https://t.co/LkirK9GTz5	2	56		295657	47
+986635317192155141	bradesco	2018-04-18 15:59:25	brazil é paia d+	@babaKvitruviano @Bradesco Pior banco	0	0		487	84
+986634460786515969	bradesco	2018-04-18 15:56:00	Bancários Conquista	"Os diretores cobraram mais contratações, pois a evidente falta de funcionários nas agências tem afetado a qualidade do atendimento, aumentado a pressão por metas e potencializado o adoecimento físico e mental.
+
+Confira:
+https://t.co/pIDnWlBenC"	0	0		1539	316
+986633980765261827	bradesco	2018-04-18 15:54:06	10 days??	I'm at Laboratório de Informática OPEE - Fundação Bradesco https://t.co/axJd4amnHX	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='66a72011ed6d4853', url='https://api.twitter.com/1.1/geo/id/66a72011ed6d4853.json', place_type='city', name='Gravataí', full_name='Gravataí, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-51.1013651, -30.0156525], [-50.8111508, -30.0156525], [-50.8111508, -29.765763], [-51.1013651, -29.765763]]]), attributes={})	2791	1866
+986633387095011328	bradesco	2018-04-18 15:51:44	†	RT @raonefdsz: Sdds mesmo, eu ganhava altos presentinhos no Bradesco tbm. https://t.co/UX9S2kQR3m	1	0		43	25
+986632548964032512	bradesco	2018-04-18 15:48:25	Bel Rech	Alguém sabe se O Bradesco aqui de BP aceita pagamentos?	0	0		135	224
+986631944757829632	bradesco	2018-04-18 15:46:01	Raone S. (???)	Sdds mesmo, eu ganhava altos presentinhos no Bradesco tbm. https://t.co/UX9S2kQR3m	1	0		7	20
+986631847621922818	bradesco	2018-04-18 15:45:37	LUCIANO D'MEDEIROS	@finange QUERO REFINANCIAR UM CONTRATO DO ANTIGO BMC BRADESCO, QUE CONSTA COMO BRADFINAN NO CONTRACHEQUE. MEU SIAPE É 1452058. CPF 773277481-72	0	0		32	688
+986631709222494218	bradesco	2018-04-18 15:45:04	LUCIANO D'MEDEIROS	@AloBradesco QUERO REFINANCIAR UM CONTRATO DO ANTIGO BMC BRADESCO, QUE CONSTA COMO BRADFINAN NO CONTRACHEQUE. MEU SIAPE É 1452058. CPF 773277481-72	0	0		32	688
+986631707746070528	bradesco	2018-04-18 15:45:04	maria #MTVBRBEATNOSDOIS	ai n acredito q vou ficar mofando aqui no Bradesco	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='59f140f220ead33d', url='https://api.twitter.com/1.1/geo/id/59f140f220ead33d.json', place_type='city', name='Paraty', full_name='Paraty, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-44.888954, -23.369641], [-44.502636, -23.369641], [-44.502636, -22.913949], [-44.888954, -22.913949]]]), attributes={})	842	619
+986631595837808640	bradesco	2018-04-18 15:44:37	LUCIANO D'MEDEIROS	@emprestimofacil QUERO REFINANCIAR UM CONTRATO DO ANTIGO BMC BRADESCO, QUE CONSTA COMO BRADFINAN NO CONTRACHEQUE. MEU SIAPE É 1452058. CPF 773277481-72	0	0		32	688
+986631523360264192	bradesco	2018-04-18 15:44:20	LUCIANO D'MEDEIROS	@SolucrediEmpres QUERO REFINANCIAR UM CONTRATO DO ANTIGO BMC BRADESCO, QUE CONSTA COMO BRADFINAN NO CONTRACHEQUE. MEU SIAPE É 1452058. CPF 773277481-72	0	0		32	688
+986631010422001669	bradesco	2018-04-18 15:42:18	LUCIANO D'MEDEIROS	@emprestimofacil QUERO REFINANCIAR UM CONTRATO DO BMC BRADESCO	0	0		32	688
+986630458560712704	bradesco	2018-04-18 15:40:06	Berdan	"Sou o mais novo funcionário do BANCO BRADESCO.
+
+Não sei onde guardar tanta felicidade!"	0	17		585	341
+986629230904664065	bradesco	2018-04-18 15:35:13	Meu Vidigal	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		57	382
+986629168514453504	bradesco	2018-04-18 15:34:59	bruenne	@Bradesco mas pelo menos há chances da gente ter esse serviço?	0	0		344	185
+986628856940462081	bradesco	2018-04-18 15:33:44	Vitor Vargas Curió	#Produção #Aktuellmix #Bradesco (@ Espaço Golf in Ribeirão Preto, SP) https://t.co/AndCWPNaue	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='f0e55b3f11b41899', url='https://api.twitter.com/1.1/geo/id/f0e55b3f11b41899.json', place_type='city', name='Ribeirão Preto', full_name='Ribeirão Preto, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-47.989299, -21.368536], [-47.6467036, -21.368536], [-47.6467036, -21.0593092], [-47.989299, -21.0593092]]]), attributes={})	1191	273
+986628266801942528	bradesco	2018-04-18 15:31:24	Vdson Araujo	@Bradesco me diga uma coisa esse cupons, que aparecem toda vez que abro app de vocês, procede? conforme imagem abaixo. https://t.co/3cCpzAs8AH	0	0		827	2687
+986627840073519105	bradesco	2018-04-18 15:29:42	Denebrow 22	Agora só falta abrir a conta no Bradesco	0	1		1488	376
+986627740165197824	bradesco	2018-04-18 15:29:18	micah	aliás me ajuda aq, todo mês me cobram 100 reais de um tal título de capitalização da minha conta oq é isso? @Bradesco	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='52ec9754e3206a63', url='https://api.twitter.com/1.1/geo/id/52ec9754e3206a63.json', place_type='city', name='Porto Seguro', full_name='Porto Seguro, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-39.5762342, -16.953571], [-39.006082, -16.953571], [-39.006082, -16.342918], [-39.5762342, -16.342918]]]), attributes={})	468	313
+986627679494557698	bradesco	2018-04-18 15:29:04	NêgoDrama ?	"[18/4 12:23] Magrinho: Seu nome e limpo Cubinha?
+[18/4 12:24] Leandro Bellycoff ?: Por enquanto sim
+[18/4 12:24] Magrinho: ?
+[18/4 12:24] Leandro Bellycoff ?: Pensando em sujar com um camaro
+[18/4 12:25] Magrinho: Fazer um empréstimo no banco Bradesco mais tem que pagar mane"	0	2		76	185
+986627626281455618	bradesco	2018-04-18 15:28:51	Gustavo	@AllejandroVinny Bradesco sendo Bradesco.	0	0		77	88
+986627417514102784	bradesco	2018-04-18 15:28:01	Brenno_	Ta osso esperar nesse Bradesco	0	0		15	96
+986627401240244230	bradesco	2018-04-18 15:27:57	Ricardo Ribeiro	"E depois de descobertos não é @Bradesco ?  A vovó pratica a ""bondosa"" doação pra dizerem que são bonzinhos: https://t.co/lmobUmCRUh"	0	0		2	0
+986627349075709952	bradesco	2018-04-18 15:27:45	matheus 2T ??	@vilasboas021 primeiro vms fazer aquele assalto no itaú bradesco e caixa	0	0		808	471
+986627321917591553	bradesco	2018-04-18 15:27:38	Reynaldo Ferreira Jr	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		19	193
+986627178690437120	bradesco	2018-04-18 15:27:04	Ricardo Ribeiro	"Praticam a SURRUPIAÇÃO descarada: https://t.co/rHZPTgXQZU
+
+não é mesmo @Bradesco ? https://t.co/VhL9IF8icK"	0	0		2	0
+986627169844629505	bradesco	2018-04-18 15:27:02	NOVA NATAL NOTICIAS	https://t.co/nVNWdlZNLZ: Banco Bradesco é condenado no RN por descontos ind... https://t.co/ueUUIYfX90	0	0		776	1743
+986626767514488832	bradesco	2018-04-18 15:25:26	Uke Bear- Alle com J de Jegue	Seu cartão de debito da problema, voce pede outro. Chega o novo cartão e com o mesmo problema do anterior. Provavelmente a pessoa que esta com meu boneco de voodoo também esta com o do @Bradesco.	0	1		190	825
+986626474336768000	bradesco	2018-04-18 15:24:16	Wellington Orozco ?	@Bradesco são os 2 C/POUP	0	0		2245	3371
+986625674009071621	bradesco	2018-04-18 15:21:05	Lucas S.	PARABÉNS PELO ATENDIMENTO @Bradesco DEMOREI EXATOS  VINTE E SETE MINUTOS E DOZE SEGUNDOS PARA CANCELAR A BOSTA DE UM CARTÃO DE CRÉDITO QUE RECEBI INDEVIDAMENTE! ATENDIMENTO L-I-X-O ESSE DE VOCÊS. https://t.co/0tbmBNA6EP	0	0		295	200
+986625550163865600	bradesco	2018-04-18 15:20:36	Gabriel Naldis	Alô @Bradesco podem me ajudar?	0	0		158	47
+986625205157101569	bradesco	2018-04-18 15:19:14	Cebruthius ??	"@nikaferrer_ Então, melhorei mas meu orientador falou: VAI TOMAR UM SORO VAI BB.
+Aí eu vim no centro médico hahah.
+Tenho Unimed e Bradesco"	0	0		188	457
+986624978908078080	bradesco	2018-04-18 15:18:20	Alana	Affff odeio bloquear a minha senha do app do Bradesco ????? fiz isso d novo	0	1		337	371
+986624775161335808	bradesco	2018-04-18 15:17:31	Rodrigo Sena	@Caixa @santander_br @Bradesco @itau vcs oferecem a opção de abrir conta corrente através do app?	0	0		381	370
+986624544650809344	bradesco	2018-04-18 15:16:36	Lifestyle Alagoaz	@Bradesco gostaria de avisar que não sou o Sivaldo, não o conheço e não tenho conta no Bradesco. Parem de cobrar o coitado através de mim! https://t.co/UmlznpsA2P	0	0		25	107
+986622599349395456	bradesco	2018-04-18 15:08:52	lil lulinha	"quanto tempo será q eu ainda posso enrolar pra ir no bradesco pegar meu cartão da conta estudante?
+
+era pra ter ido semana passada"	0	0		948	559
+986622492163936256	bradesco	2018-04-18 15:08:27	surtada	To aqui no Bradesco	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	604	560
+986621876209405953	bradesco	2018-04-18 15:06:00	Bradesco	@brunnogustavo Se preferir eu posso registrar a sua insatisfação para que a agência verifique e te dê um retorno sobre isso. Seu telefone para contato continua o mesmo? Em caso negativo, confirme por DM, por favor. https://t.co/AZr1IzXD1m	0	0		157329	4635
+986621822132244481	bradesco	2018-04-18 15:05:47	Sandro(#tim betalab)	I'm at Bradesco in São Paulo, SP https://t.co/TR3d6utuF8	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	29	39
+986621752523526144	bradesco	2018-04-18 15:05:31	Sandro(#tim betalab)	I'm at Bradesco - Floriano Peixoto in sao paulo, SP https://t.co/yonjIdBtiI	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='68e019afec7d0ba5', url='https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json', place_type='city', name='Sao Paulo', full_name='Sao Paulo, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-46.826039, -24.008814], [-46.365052, -24.008814], [-46.365052, -23.356792], [-46.826039, -23.356792]]]), attributes={})	29	39
+986621646546104320	bradesco	2018-04-18 15:05:05	bianca	@Bradesco Tarifa conta classic 1. Foi descontando R$5,90 normalmente nos meses anteriores, porém, eu não recebi nenhum comunicado sobre esse aumento e nem autorizei o mesmo. Não tem outra forma de resolvermos isso sem ser entrando em contato com a agência? Haja tempo e paciência pra isso	0	0		723	824
+986621618960109570	bradesco	2018-04-18 15:04:59	JAPS	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		27	108
+986621122723577856	bradesco	2018-04-18 15:03:00	next	@leandrovitor Oiê! Tudo bem? Os depósitos, podem ser realizados nas máquinas de autoatendimento Bradesco!	0	0		6599	1
+986620770674728961	bradesco	2018-04-18 15:01:36	Bradesco	@diazzmarlon Oi, desculpe a demora :/ Em qual agência esteve e de qual serviço precisava/precisa? Se quiser, pode me mandar mais informações por DM.	0	0		157329	4635
+986620767281524740	bradesco	2018-04-18 15:01:36	Karoline Engel	Lucas me atacou na rua pra perguntar onde é o Bradesco, sendo que ele ta trabalhando em cima do Bradesco. Kkkkkkkkk	0	0		181	178
+986620189683912710	bradesco	2018-04-18 14:59:18	Nadja	@Bradesco Obrigada!!!	0	0		2182	108
+986619826499194882	bradesco	2018-04-18 14:57:51	ray	a minha triste é que a queridinha da justiça é a bradesco e os problemas dela na minha vida só esta começando	0	0		511	121
+986619733393977344	bradesco	2018-04-18 14:57:29	????????	@G_Nadja Eu sempre acesso sem problema. Mas ve com sua agencia se precisa liberar alguma coisa no app. No Bradesco eu nunca tive problema	0	1	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='97bcdfca1a2dca59', url='https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json', place_type='city', name='Rio de Janeiro', full_name='Rio de Janeiro, Brazil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-43.795449, -23.08302], [-43.0877068, -23.08302], [-43.0877068, -22.7398234], [-43.795449, -22.7398234]]]), attributes={})	1189	1575
+986619688288444416	bradesco	2018-04-18 14:57:18	ray	eu te odeio @Bradesco você só traz problema pra todos que contratam com você	0	1		511	121
+986619455982788608	bradesco	2018-04-18 14:56:23	Matheus Braga	@Bradesco Já resolvi, obg!	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='cf8293aa8491d479', url='https://api.twitter.com/1.1/geo/id/cf8293aa8491d479.json', place_type='city', name='Muqui', full_name='Muqui, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-41.4730071, -21.0263472], [-41.2200781, -21.0263472], [-41.2200781, -20.8396763], [-41.4730071, -20.8396763]]]), attributes={})	190	681
+986619109952643072	bradesco	2018-04-18 14:55:00	Bradesco	@g_nadja Oi! Com a senha de 4 dígitos e uma chave de segurança vinculada à conta, vc consegue sim. Boa viagem! ? Estarei por aqui se precisar. ?	0	0		157329	4635
+986618967275069441	bradesco	2018-04-18 14:54:26	Ailson jr	@Bradesco Estou, ainda não fui atendido	0	1		258	257
+986618720469516289	bradesco	2018-04-18 14:53:28	Bradesco	@_ailsonjr Oii, está em uma de nossas agências? Conseguiu ser atendido?	0	2		157329	4635
+986618114203930624	bradesco	2018-04-18 14:51:03	???; TEAR	"@Bradesco aparece algo como ""acesso bloqueado"", na primeira vez que fui cadastrar, eu tinha até conseguido, estava respondendo umas perguntas mas tinham bloqueado meu acesso, agora eu não consigo nem chegar nas perguntas mais, a mensagem logo aparece"	0	0		1527	974
+986617221446340608	bradesco	2018-04-18 14:47:30	.PSD	qm vamo? https://t.co/YsEjMCyZS4	0	2		211	140
+986616860811649026	bradesco	2018-04-18 14:46:04	nessinea	Hj o Bradesco tá top	0	0		23	17
+986615851515301888	bradesco	2018-04-18 14:42:04	Shie	RT @rodolfo_assis: eu juro a vcs que eu não aguento mais esse comercial da cor &amp; ton no youtube, tá no mesmo nível de ódio que o bradesco n…	1	0		139	94
+986615532752461824	bradesco	2018-04-18 14:40:48	lixo humano	quem quer ir comigo https://t.co/XxzIbECrpe	0	3		368	291
+986615492008955904	bradesco	2018-04-18 14:40:38	Qranio	"Participe do nosso 7º TeQtalQ e fique por dentro das tendências em inovação para a Educação Corporativa. 
+Saiba mais: https://t.co/RQrmp5991K
+
+Victor Queiroz é o atual Diretor de RH do Bradesco, conhecido por sua  experiência em otimização de processos…https://t.co/soAt2zTL8z"	0	0		10773	2935
+986615464066510848	bradesco	2018-04-18 14:40:31	Bradesco	@hxseokluvz Oi, qual a mensagem aparece? Vc já entrou em contato com a central de atendimento do cartão para verificar?	0	0		157329	4635
+986615412271001600	bradesco	2018-04-18 14:40:19	santa geminiana	To pensando se eu realmente preciso de dinheiro pq ir andando até o Bradesco vai ser triste	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='63968ec77ab62d12', url='https://api.twitter.com/1.1/geo/id/63968ec77ab62d12.json', place_type='city', name='Blumenau', full_name='Blumenau, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-49.206993, -27.1325356], [-49.0122597, -27.1325356], [-49.0122597, -26.613085], [-49.206993, -26.613085]]]), attributes={})	580	539
+986614954446016513	bradesco	2018-04-18 14:38:30	Luan Safadão ??	@Bradesco Tô esperando até hoje a agência me ligar e nada, esse banco só vai de mal a pior ?	0	0		511	363
+986614778809536513	bradesco	2018-04-18 14:37:48	louren	Queria q a @ respondesse tão rápido quanto os bancos quando a gente cita eles no Twitter https://t.co/Jdxa4IX5N4	0	2	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='52ec9754e3206a63', url='https://api.twitter.com/1.1/geo/id/52ec9754e3206a63.json', place_type='city', name='Porto Seguro', full_name='Porto Seguro, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-39.5762342, -16.953571], [-39.006082, -16.953571], [-39.006082, -16.342918], [-39.5762342, -16.342918]]]), attributes={})	684	225
+986614769116475394	bradesco	2018-04-18 14:37:46	Freitas Leiloeiro	Leilão de Imóveis - 23/04/2018 - 13:00hs (Banco Bradesco): https://t.co/3vKtF3Lwc7 via @YouTube	0	0		595	227
+986614604863279104	bradesco	2018-04-18 14:37:06	louren	@Bradesco Tudo certo ?????	0	0	Place(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, id='52ec9754e3206a63', url='https://api.twitter.com/1.1/geo/id/52ec9754e3206a63.json', place_type='city', name='Porto Seguro', full_name='Porto Seguro, Brasil', country_code='BR', country='Brazil', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x00000164EB5B27F0>, type='Polygon', coordinates=[[[-39.5762342, -16.953571], [-39.006082, -16.953571], [-39.006082, -16.342918], [-39.5762342, -16.342918]]]), attributes={})	684	225
+986614521845428226	bradesco	2018-04-18 14:36:47	Bradesco	@luuanpaz Oii, vc é correntista? Tentou adquirir o cartão em uma de nossas agências? Informaram o motivo de não conseguir aprovação?	1	1		157329	4635
+986614490002329600	bradesco	2018-04-18 14:36:39	Ailson jr	Mofando aqui no Bradesco	0	1		258	257
+986613990355800065	bradesco	2018-04-18 14:34:40	???; TEAR	o aplicativo de cartões do Bradesco é uma porcaria, eu baixei pra saber quanto tenho de limite e meu acesso foi bloqueado	0	0		1527	974
+986613222299131905	bradesco	2018-04-18 14:31:37	Marcos Vecchio	@marcela29702306 @LFruntuoso @silvest_juliana @andreia_delaid @Cielo_br @Cieloresponde @ReclameAQUI @proconspoficial @Bradesco Pessoal obrigado pela força @ReclameAQUI e todos aqui envolvidos hoje tive contato da @Cieloresponde @Cielo_br me informando que não iram fazer nada que tenho que acatar a decisão deles diante disso solicitei o cancelamento da máquina peço não caiam nessa	0	0		269	1713
+986612903687147520	bradesco	2018-04-18 14:30:21	Luis Henrique Diniz	RT @F_Derezende: Os quatro maiores bancos do mercado brasileiro - Itaú Unibanco, Bradesco, Banco do Brasil (BB) e Caixa - respondiam por 78…	6	0		266	2643
+986612819968888832	bradesco	2018-04-18 14:30:01	Bradesco	@raybrasilreis Oii, o que aconteceu? Vc está tentando acessar o App?	0	0		157329	4635
+986612451214090241	bradesco	2018-04-18 14:28:33	Luan Safadão ??	Tmnc nunca consigo fazer meu cartão de crédito do Bradesco essa porra de banco fdp	0	0		511	363
+986611998644490241	bradesco	2018-04-18 14:26:45	dia perfeito	"todo mês eu tendo dor de cabeça com o @bradesco
+qria saber se qnt mais os clientes ficam insatisfeitos, mais juros o banco ganha
+pq n eh possivo"	0	0		182	99
